@@ -1,0 +1,952 @@
+network_id,node_id,original_name,node_level,taxonomy_id,taxonomy_name
+2472,31992,"Z1ai: copepods (large, >= 0.025mg C)",taxon,4441.0,Copepods
+2472,31993,"Z1aii: copepods (small, < 0.025mg C)",taxon,4441.0,Copepods
+2472,31995,Z1d: pteropods,taxon,5293.0,Pteropoda
+2472,31996,Z2a: pelagic amphipods,taxon,4436.0,Amphipoda
+2472,31999,Z2e: small jellyfish,taxon,5291.0,Medusozoa
+2472,32000,Z2f: large jellyfish,taxon,5291.0,Medusozoa
+2472,32001,Z3a: E. pacifica (adult and juveniles),taxon,5296.0,Pacifica
+2472,32002,Z3b: T. spinifera (adult and juveniles),taxon,5297.0,Acantheurytoma spinifera
+2472,32003,C: cephalopod aggregate,taxon,4603.0,Cephalopoda
+2472,32004,PlnkF1a: smelt aggregate,taxon,5298.0,Osmeridae
+2472,32005,PlnkF1b: shad,taxon,5299.0,Alosa
+2472,32006,PlnkF1c: sardine,taxon,4371.0,Clupeidae
+2472,32007,PlnkF1d: herring,taxon,4371.0,Clupeidae
+2472,32008,PlnkF1e: anchovy,taxon,4469.0,Engraulidae
+2472,32009,PlnkF1f: saury,taxon,5305.0,Scomberesocidae
+2472,32010,PlnkF2a: coho yearling,taxon,4882.0,Oncorhynchus kisutch
+2472,32011,PlnkF2bi: Chinook subyearling,taxon,4883.0,Oncorhynchus tshawytscha
+2472,32012,PlnkF2bii: Chinook yearling,taxon,4883.0,Oncorhynchus tshawytscha
+2472,32013,PlnkF2c: other juvenile salmon,taxon,5300.0,Salmonidae
+2472,32015,PlnkF4: planktivorous rockfish,taxon,4957.0,Sebastes
+2472,32016,PiscF1a: coho,taxon,4882.0,Oncorhynchus kisutch
+2472,32017,PiscF1b: Chinook,taxon,4883.0,Oncorhynchus tshawytscha
+2472,32019,PiscF2: shark aggregate,taxon,4458.0,Selachimorpha
+2472,32020,PiscF3a: jack mackerel,taxon,5308.0,Trachurus symmetricus
+2472,32021,PiscF3b: Pacific mackerel,taxon,4637.0,Scomber japonicus
+2472,32022,PiscF4: piscivorous rockfish,taxon,4957.0,Sebastes
+2472,32023,PiscF5: dogfish aggregate,taxon,5309.0,Squalus
+2472,32024,PiscF6: hake,taxon,5306.0,Phycidae
+2472,32025,PiscF7: sablefish,taxon,4885.0,Anoplopoma fimbria
+2472,32026,"PiscF8: Hexagrammidae (lingcod, greenling)",taxon,5310.0,Hexagrammidae
+2472,32027,PiscF9: flatfish (water-column feeders),taxon,4717.0,Pseudorhombus malayanus
+2472,32028,BnthF1: skates and rays,taxon,4283.0,Transtillaspis batoidea
+2472,32030,BnthF3: benthivorous rockfish,taxon,4957.0,Sebastes
+2472,32031,"BnthF4: Gadidae (cod, haddock, pollock)",taxon,5311.0,Gadidae
+2472,32032,BnthF5: flatfish (benthic feeders),taxon,4717.0,Pseudorhombus malayanus
+2472,32033,BnthF6: flatfish (small),taxon,4717.0,Pseudorhombus malayanus
+2472,32034,BnthF7: grenadier,taxon,5316.0,Macrouridae
+2472,32035,JuvF1: juvenile rockfish,taxon,4957.0,Sebastes
+2472,32038,DepB2a: Pandalus spp.,taxon,5302.0,Pandalus
+2472,32040,DepB3: mysids,taxon,4903.0,Mysida
+2472,32041,DepB4: echinoderms,taxon,5312.0,Echinodermata
+2472,32042,"DepB5: benthic amphipods, isopods, and cumaceans",taxon,4551.0,Isopoda
+2472,32043,SspB2: bivalves,taxon,3781.0,Bivalvia
+2472,32045,CrnB1: Dungeness crab,taxon,5313.0,Metacarcinus magister
+2472,32046,CrnB2: Tanner crab,taxon,5314.0,Chionoecetes bairdi
+2472,32048,SB1: sooty shearwaters,taxon,5320.0,Puffinus griseus
+2472,32049,SB2: common murre,taxon,5317.0,Uria aalge
+2472,32050,SB3: gulls and terns,taxon,3789.0,Laridae
+2472,32051,SB4: alcids,taxon,5318.0,Alcidae
+2472,32052,SB5: large pelagic seabirds,taxon,4337.0,Aves
+2472,32053,SB6: other pelagic seabirds,taxon,4337.0,Aves
+2472,32055,SB8: storm-petrels,taxon,4452.0,Procellariiformes
+2472,32056,PlnkMM1: gray whales,taxon,5321.0,Eschrichtius robustus
+2472,32057,PlnkMM2: baleen whales,taxon,5322.0,Mysticeti
+2472,32058,PiscMM1: small pinnipeds,taxon,4307.0,Phocidae
+2472,32059,PiscMM2: large pinnipeds,taxon,4307.0,Phocidae
+2472,32060,PiscMM4: toothed whales,taxon,4585.0,Odontoceti
+2472,32068,Import,taxon,4477.0,Import
+2472,32065,Z2d: fish eggs,taxon,,
+2472,32066,D3: benthic detritus,taxon,,
+2472,31991,MZ: micro-zooplankton,taxon,,
+2472,32014,PlnkF3: mesopelagic fish aggregate,taxon,,
+2472,32029,BnthF2: misc. small benthic fishes,taxon,,
+2472,32037,DepB1: infauna,taxon,,
+2472,32061,P1: large phytoplankton,taxon,,
+2472,32062,P2: small phytoplankton,taxon,,
+2472,32063,D1: pelagic detritus,taxon,,
+2472,31994,Z1b: small invertebrate larvae,taxon,,
+2472,32064,Z1c: invertebrate eggs,taxon,,
+2472,31997,"Z2b: pelagic shrimp (Sergestidae, Panaeidae)",taxon,,
+2472,31998,Z2c: other macro-zooplankton,taxon,,
+2472,32036,JuvF2: juvenile fish (other),taxon,,
+2472,32039,DepB2b: other epibenthic shrimp (Caridea),taxon,,
+2472,32044,SspB3: misc. epifauna (suspension feeders),taxon,,
+2472,32047,CrnB3: misc. epifauna (carnivorous),taxon,,
+2472,32018,PiscF1c: other salmon aggregate,taxon,,
+2472,32067,D2: fishery offal,taxon,,
+2472,32054,SB7: coastal seabirds (divers),taxon,,
+2474,32148,"Z1ai: copepods (large, >= 0.025mg C)",taxon,4441.0,Copepods
+2474,32149,"Z1aii: copepods (small, < 0.025mg C)",taxon,4441.0,Copepods
+2474,32151,Z1d: pteropods,taxon,5293.0,Pteropoda
+2474,32152,Z2a: pelagic amphipods,taxon,4436.0,Amphipoda
+2474,32155,Z2e: small jellyfish,taxon,5291.0,Medusozoa
+2474,32156,Z2f: large jellyfish,taxon,5291.0,Medusozoa
+2474,32157,Z3a: E. pacifica (adult and juveniles),taxon,5296.0,Pacifica
+2474,32158,Z3b: T. spinifera (adult and juveniles),taxon,5297.0,Acantheurytoma spinifera
+2474,32159,C: cephalopod aggregate,taxon,4603.0,Cephalopoda
+2474,32160,PlnkF1a: smelt aggregate,taxon,5298.0,Osmeridae
+2474,32161,PlnkF1b: shad,taxon,5299.0,Alosa
+2474,32162,PlnkF1c: sardine,taxon,4371.0,Clupeidae
+2474,32163,PlnkF1d: herring,taxon,4371.0,Clupeidae
+2474,32164,PlnkF1e: anchovy,taxon,4469.0,Engraulidae
+2474,32165,PlnkF1f: saury,taxon,5305.0,Scomberesocidae
+2474,32166,PlnkF2a: coho yearling,taxon,4882.0,Oncorhynchus kisutch
+2474,32167,PlnkF2bi: Chinook subyearling,taxon,4883.0,Oncorhynchus tshawytscha
+2474,32168,PlnkF2bii: Chinook yearling,taxon,4883.0,Oncorhynchus tshawytscha
+2474,32169,PlnkF2c: other juvenile salmon,taxon,5300.0,Salmonidae
+2474,32171,PlnkF4: planktivorous rockfish,taxon,4957.0,Sebastes
+2474,32172,PiscF1a: coho,taxon,4882.0,Oncorhynchus kisutch
+2474,32173,PiscF1b: Chinook,taxon,4883.0,Oncorhynchus tshawytscha
+2474,32175,PiscF2: shark aggregate,taxon,4458.0,Selachimorpha
+2474,32176,PiscF3a: jack mackerel,taxon,5308.0,Trachurus symmetricus
+2474,32177,PiscF3b: Pacific mackerel,taxon,4637.0,Scomber japonicus
+2474,32178,PiscF4: piscivorous rockfish,taxon,4957.0,Sebastes
+2474,32179,PiscF5: dogfish aggregate,taxon,5309.0,Squalus
+2474,32180,PiscF6: hake,taxon,5306.0,Phycidae
+2474,32181,PiscF7: sablefish,taxon,4885.0,Anoplopoma fimbria
+2474,32182,"PiscF8: Hexagrammidae (lingcod, greenling)",taxon,5310.0,Hexagrammidae
+2474,32183,PiscF9: flatfish (water-column feeders),taxon,4717.0,Pseudorhombus malayanus
+2474,32184,BnthF1: skates and rays,taxon,4283.0,Transtillaspis batoidea
+2474,32186,BnthF3: benthivorous rockfish,taxon,4957.0,Sebastes
+2474,32187,"BnthF4: Gadidae (cod, haddock, pollock)",taxon,5311.0,Gadidae
+2474,32188,BnthF5: flatfish (benthic feeders),taxon,4717.0,Pseudorhombus malayanus
+2474,32189,BnthF6: flatfish (small),taxon,4717.0,Pseudorhombus malayanus
+2474,32190,BnthF7: grenadier,taxon,5316.0,Macrouridae
+2474,32191,JuvF1: juvenile rockfish,taxon,4957.0,Sebastes
+2474,32194,DepB2a: Pandalus spp.,taxon,5302.0,Pandalus
+2474,32196,DepB3: mysids,taxon,4903.0,Mysida
+2474,32197,DepB4: echinoderms,taxon,5312.0,Echinodermata
+2474,32198,"DepB5: benthic amphipods, isopods, and cumaceans",taxon,4551.0,Isopoda
+2474,32199,SspB2: bivalves,taxon,3781.0,Bivalvia
+2474,32201,CrnB1: Dungeness crab,taxon,5313.0,Metacarcinus magister
+2474,32202,CrnB2: Tanner crab,taxon,5314.0,Chionoecetes bairdi
+2474,32204,SB1: sooty shearwaters,taxon,5320.0,Puffinus griseus
+2474,32205,SB2: common murre,taxon,5317.0,Uria aalge
+2474,32206,SB3: gulls and terns,taxon,3789.0,Laridae
+2474,32207,SB4: alcids,taxon,5318.0,Alcidae
+2474,32208,SB5: large pelagic seabirds,taxon,4337.0,Aves
+2474,32209,SB6: other pelagic seabirds,taxon,4337.0,Aves
+2474,32211,SB8: storm-petrels,taxon,4452.0,Procellariiformes
+2474,32212,PlnkMM1: gray whales,taxon,5321.0,Eschrichtius robustus
+2474,32213,PlnkMM2: baleen whales,taxon,5322.0,Mysticeti
+2474,32214,PiscMM1: small pinnipeds,taxon,4307.0,Phocidae
+2474,32215,PiscMM2: large pinnipeds,taxon,4307.0,Phocidae
+2474,32216,PiscMM4: toothed whales,taxon,4585.0,Odontoceti
+2474,32224,Import,taxon,4477.0,Import
+2474,32221,Z2d: fish eggs,taxon,,
+2474,32222,D3: benthic detritus,taxon,,
+2474,32147,MZ: micro-zooplankton,taxon,,
+2474,32170,PlnkF3: mesopelagic fish aggregate,taxon,,
+2474,32185,BnthF2: misc. small benthic fishes,taxon,,
+2474,32193,DepB1: infauna,taxon,,
+2474,32217,P1: large phytoplankton,taxon,,
+2474,32218,P2: small phytoplankton,taxon,,
+2474,32219,D1: pelagic detritus,taxon,,
+2474,32150,Z1b: small invertebrate larvae,taxon,,
+2474,32220,Z1c: invertebrate eggs,taxon,,
+2474,32153,"Z2b: pelagic shrimp (Sergestidae, Panaeidae)",taxon,,
+2474,32154,Z2c: other macro-zooplankton,taxon,,
+2474,32192,JuvF2: juvenile fish (other),taxon,,
+2474,32195,DepB2b: other epibenthic shrimp (Caridea),taxon,,
+2474,32200,SspB3: misc. epifauna (suspension feeders),taxon,,
+2474,32203,CrnB3: misc. epifauna (carnivorous),taxon,,
+2474,32174,PiscF1c: other salmon aggregate,taxon,,
+2474,32223,D2: fishery offal,taxon,,
+2474,32210,SB7: coastal seabirds (divers),taxon,,
+5028,41133,Phytoplankton,taxon,,
+5028,41135,Spyridia filamentosa,taxon,9099.0,Spyridia filamentosa
+5028,41137,Laurencia papillosa,taxon,9100.0,Palisada papillosa
+5028,41139,Gracilaria,taxon,9102.0,Gracilaria
+5028,41141,Thalassia testudinum,taxon,5848.0,Thalassia testudinum
+5028,41143,Siphonodictyon,taxon,9105.0,Siphonodictyon
+5028,41145,Hermatypic corals,taxon,,
+5028,41147,Hermodice carunculata,taxon,9107.0,Hermodice carunculata
+5028,41149,Acartia spinata,taxon,9109.0,Acartia spinata
+5028,41151,Euterpina acutifrons,taxon,9111.0,Euterpina acutifrons
+5028,41153,Glossocephalus milneedwardsi,taxon,9113.0,Glossocephalus milneedwardsi
+5028,41155,Krohniita subtilis,taxon,,
+5028,41157,Aglaura sp.,taxon,,
+5028,41159,Limicina sp.,taxon,,
+5028,41161,Iciligorgia schrammi,taxon,9118.0,Iciligorgia schrammi
+5028,41163,Zoanthus solanderi,taxon,9120.0,Zoanthus solanderi
+5028,41165,Tripneustes ventricosus,taxon,9122.0,Tripneustes ventricosus
+5028,41167,Echinometra viridis,taxon,9124.0,Echinometra viridis
+5028,41169,Meoma ventricosa,taxon,9126.0,Meoma ventricosa
+5028,41171,Tellina listeri,taxon,,
+5028,41173,Parvilucina costata,taxon,9129.0,Clathrolucina costata
+5028,41175,Lima scabra,taxon,9131.0,Ctenoides scaber
+5028,41177,Chlamys ornata,taxon,9133.0,Caribachlamys ornata
+5028,41179,Pinna carnea,taxon,9135.0,Pinna carnea
+5028,41181,Diodora dysoni,taxon,9137.0,Diodora dysoni
+5028,41183,Turbo castanea,taxon,9139.0,Turbo castanea
+5028,41185,Strombus gallus,taxon,9141.0,Aliger gallus
+5028,41187,Cymphoma mcgintyi,taxon,,
+5028,41189,Cymatium pileare,taxon,9144.0,Monoplex pilearis
+5028,41191,Pisania auritula,taxon,9146.0,Gemophos auritulus
+5028,41193,Aspella paupercula,taxon,9148.0,Dermomurex pauperculus
+5028,41195,Sinum perspectivum,taxon,9150.0,Sinum perspectivum
+5028,41197,Modulus modulus,taxon,9152.0,Modulus modulus
+5028,41199,Kinbergonuphis sp.,taxon,,
+5028,41201,Isostichopus badionotus,taxon,9155.0,Isostichopus badionotus
+5028,41203,Hexapanopeus caribbaeus,taxon,9157.0,Hexapanopeus caribbaeus
+5028,41205,Mithrax coryphe,taxon,9159.0,Mithraculus coryphe
+5028,41207,Ophiocoma echinata,taxon,9161.0,Ophiocoma echinata
+5028,41209,Carpilius corallinus,taxon,9163.0,Carpilius corallinus
+5028,41211,Hippolyte pleuracanthus,taxon,9165.0,Hippolyte pleuracanthus
+5028,41213,Microphrys interruptus,taxon,9167.0,Omalacantha interrupta
+5028,41215,Panulirus argus,taxon,9169.0,Panulirus argus
+5028,41217,Pagurus bonairensis,taxon,9171.0,Pagurus bonairensis
+5028,41219,Calappa angusta,taxon,9172.0,Cyclozodion angustum
+5028,41221,Pilumnus dasypodus,taxon,9174.0,Pilumnus dasypodus
+5028,41223,Parapinnixa bouvier,taxon,,
+5028,41225,Paguristes grayi,taxon,9177.0,Paguristes grayi
+5028,41227,Pilumnus lacteus,taxon,9179.0,Pilumnus lacteus
+5028,41229,Epialtus kingsleyi,taxon,9181.0,Epialtoides kingsleyi
+5028,41231,Synalpheus brevicarpus,taxon,9183.0,Synalpheus brevicarpus
+5028,41233,Ambidexter symmetricus,taxon,9185.0,Ambidexter symmetricus
+5028,41235,Penaeus duorarum,taxon,9187.0,Penaeus duorarum
+5028,41237,Acanthostracion quadricornis,taxon,9189.0,Acanthostracion quadricornis
+5028,41239,Centropyge argi,taxon,9191.0,Centropyge argi
+5028,41241,Aluterus scripta,taxon,9193.0,Aluterus scriptus
+5028,41243,Archosargus rhomboidalis,taxon,9195.0,Archosargus rhomboidalis
+5028,41245,Pomacanthus arcuatus,taxon,9197.0,Pomacanthus arcuatus
+5028,41247,Diplodus caudimaculata,taxon,,
+5028,41249,Melichthys niger,taxon,9200.0,Melichthys niger
+5028,41251,Chaetodon capistratus,taxon,9202.0,Chaetodon capistratus
+5028,41253,Chaetodon sedentarius,taxon,9204.0,Chaetodon sedentarius
+5028,41255,Parablennius marmoreus,taxon,9206.0,Parablennius marmoreus
+5028,41257,Gnatholepis thompsoni,taxon,9208.0,Gnatholepis thompsoni
+5028,41259,Lactophrys bicaudalis,taxon,9210.0,Lactophrys bicaudalis
+5028,41261,Lactophrys triqueter,taxon,9212.0,Rhinesomus triqueter
+5028,41263,Canthigaster rostrata,taxon,9214.0,Canthigaster rostrata
+5028,41265,Monacanthus ciliatus,taxon,9216.0,Monacanthus ciliatus
+5028,41267,Anchoa hepsetus,taxon,9218.0,Anchoa hepsetus
+5028,41269,Halichoeres bivittatus,taxon,9220.0,Halichoeres bivittatus
+5028,41271,Holocentrus ascensionis,taxon,9222.0,Holocentrus adscensionis
+5028,41273,Haemulon aurolineatum,taxon,9224.0,Haemulon aurolineatum
+5028,41275,Haemulon chrysargyreum,taxon,9226.0,Brachygenys chrysargyreum
+5028,41277,Holocentrus coruscus,taxon,9228.0,Sargocentron coruscum
+5028,41279,Halichoeres poeyi,taxon,9230.0,Halichoeres poeyi
+5028,41281,Ginglymostoma cirratum,taxon,9232.0,Ginglymostoma cirratum
+5028,41283,Loligo plei,taxon,9234.0,Doryteuthis pleii
+5028,41285,Octopus vulgaris,taxon,4466.0,Octopus vulgaris
+5028,41287,Gonodactylus bredini,taxon,9235.0,Neogonodactylus bredini
+5028,41289,Labrisomus nuchipinnis,taxon,9237.0,Labrisomus nuchipinnis
+5028,41291,Echeneis naucrates,taxon,9239.0,Echeneis naucrates
+5028,41293,Equetus lanceolatus,taxon,9241.0,Equetus lanceolatus
+5028,41295,Halichoeres maculipinna,taxon,9243.0,Halichoeres maculipinna
+5028,41297,Thalassoma bifasciatum,taxon,9245.0,Thalassoma bifasciatum
+5028,41299,Myripristis jacobus,taxon,9247.0,Myripristis jacobus
+5028,41301,Phaeoptyx conklini / Pempheris schomburgki,taxon,,
+5028,41303,Opistognathus maxillosus,taxon,9250.0,Opistognathus maxillosus
+5028,41305,Odontoscion dentex / Pareques acuminatus,taxon,,
+5028,41307,Serranus tigrinus,taxon,9253.0,Serranus tigrinus
+5028,41309,Echidna catenata,taxon,9255.0,Echidna catenata
+5028,41311,Gerres cinereus,taxon,9257.0,Gerres cinereus
+5028,41313,Opistognathus macrognathus,taxon,9259.0,Opistognathus macrognathus
+5028,41315,Balistes vetula / Calamus calamus,taxon,,
+5028,41317,Lachnolaimus maximus,taxon,9262.0,Lachnolaimus maximus
+5028,41319,Hypoatherina harringtonensis,taxon,9264.0,Hypoatherina harringtonensis
+5028,41321,Opisthonema oglinum,taxon,9266.0,Opisthonema oglinum
+5028,41323,Haemulon sciurus,taxon,9268.0,Haemulon sciurus
+5028,41132,Planktonic bacteria,taxon,,
+5028,41134,Gymnodinium,taxon,9098.0,Gymnodinium
+5028,41136,Cladophora sp.,taxon,,
+5028,41138,Amphiroa,taxon,9101.0,Amphiroa
+5028,41140,Porolithon pachydermum,taxon,9103.0,Hydrolithon pachydermum
+5028,41142,Agelas dispar,taxon,9104.0,Agelas dispar
+5028,41144,Astrangia solitaria,taxon,9106.0,Astrangia solitaria
+5028,41146,Metis,taxon,,
+5028,41148,Microsetella rosea,taxon,9108.0,Microsetella rosea
+5028,41150,Oncaea venusta,taxon,9110.0,Oncaea venusta
+5028,41152,Abylopsis eschscholtzi,taxon,9112.0,Abylopsis eschscholtzii
+5028,41154,Oikopleura dioica,taxon,9114.0,Oikopleura dioica
+5028,41156,Climacosphenia moniligera,taxon,9115.0,Climacosphenia moniligera
+5028,41158,Aequorea macrodactyla,taxon,9116.0,Aequorea macrodactyla
+5028,41160,Eunicea asperula,taxon,9117.0,Eunicea asperula
+5028,41162,Parazoanthus swiftii,taxon,9119.0,Parazoanthus swiftii
+5028,41164,Diadema antillarum,taxon,9121.0,Diadema antillarum
+5028,41166,Eucidaris tribuloides,taxon,9123.0,Eucidaris tribuloides
+5028,41168,Lytechinus variegatus,taxon,9125.0,Lytechinus variegatus
+5028,41170,Mysidium columbiae,taxon,9127.0,Mysidium columbiae
+5028,41172,Asaphis deflorata,taxon,9128.0,Asaphis deflorata
+5028,41174,Chione cancellata,taxon,9130.0,Chione cancellata
+5028,41176,Modiolus americanus,taxon,9132.0,Modiolus americanus
+5028,41178,Lithophaga bisulcata,taxon,9134.0,Leiosolenus bisulcatus
+5028,41180,Atagema browni,taxon,9136.0,Atagema browni
+5028,41182,Collisella jamaicensis,taxon,9138.0,Collisella jamaicensis
+5028,41184,Aplysia parvula,taxon,9140.0,Aplysia parvula
+5028,41186,Calliostoma javanicum,taxon,9142.0,Calliostoma javanicum
+5028,41188,Cassis madagascariensis,taxon,9143.0,Cassis madagascariensis
+5028,41190,Cypraea cinerea,taxon,9145.0,Luria cinerea
+5028,41192,Dolicholatirus cayohuesonicus,taxon,9147.0,Dolicholatirus cayohuesonicus
+5028,41194,Triphora intermedia,taxon,9149.0,Inella intermedia
+5028,41196,Charonia variegata,taxon,9151.0,Charonia variegata
+5028,41198,Chorizopora brongniarti,taxon,9153.0,Chorizopora brongniartii
+5028,41200,Eunice mutilata,taxon,9154.0,Eunice mutilata
+5028,41202,Domecia acanthophora,taxon,9156.0,Domecia acanthophora
+5028,41204,Petrolisthes jugosus,taxon,9158.0,Petrolisthes jugosus
+5028,41206,Paguristes cadenati,taxon,9160.0,Paguristes cadenati
+5028,41208,Leucozonia nassa,taxon,9162.0,Leucozonia nassa
+5028,41210,Micropanope barbadensis,taxon,9164.0,Garthiope barbadensis
+5028,41212,Tozeuma carolinense,taxon,9166.0,Tozeuma carolinense
+5028,41214,Pitho aculeata,taxon,9168.0,Pitho aculeata
+5028,41216,Gnathophylloides mineri,taxon,9170.0,Gnathophylloides mineri
+5028,41218,Scyllarus sp.,taxon,,
+5028,41220,Panopeus bermudensis,taxon,9173.0,Acantholobulus bermudensis
+5028,41222,Calcinus tibicen,taxon,9175.0,Calcinus tibicen
+5028,41224,Microphrys antillensis,taxon,9176.0,Microphrys antillensis
+5028,41226,Stenorhynchus seticornis,taxon,9178.0,Stenorhynchus seticornis
+5028,41228,Parapinnixa hendersoni,taxon,9180.0,Parapinnixa hendersoni
+5028,41230,Pachycheles riisei,taxon,9182.0,Pachycheles riisei
+5028,41232,Alpheus armatus,taxon,9184.0,Alpheus armatus
+5028,41234,Alpheus armillatus,taxon,9186.0,Alpheus armillatus
+5028,41236,Aluterus schoepfii,taxon,9188.0,Aluterus schoepfii
+5028,41238,Stegastes dorsopunicans,taxon,9190.0,Stegastes adustus
+5028,41240,Acanthurus bahianus,taxon,9192.0,Acanthurus bahianus
+5028,41242,Lactophrys trigonus,taxon,9194.0,Lactophrys trigonus
+5028,41244,Anchoa lyolepis,taxon,9196.0,Anchoa lyolepis
+5028,41246,Chaetodipterus faber,taxon,9198.0,Chaetodipterus faber
+5028,41248,Holacanthus ciliaris,taxon,9199.0,Holacanthus ciliaris
+5028,41250,Scarus taeniopterus,taxon,9201.0,Scarus taeniopterus
+5028,41252,Acanthostracion polygonius,taxon,9203.0,Acanthostracion polygonius
+5028,41254,Microspathodon chrysurus,taxon,9205.0,Microspathodon chrysurus
+5028,41256,Entomacrodus nigricans,taxon,9207.0,Entomacrodus nigricans
+5028,41258,Scarus vetula,taxon,9209.0,Scarus vetula
+5028,41260,Harengula humeralis,taxon,9211.0,Harengula humeralis
+5028,41262,Abudefduf taurus,taxon,9213.0,Abudefduf taurus
+5028,41264,Sphoeroides spengleri,taxon,9215.0,Sphoeroides spengleri
+5028,41266,Coryphopterus glaucofraenum,taxon,9217.0,Coryphopterus glaucofraenum
+5028,41268,Chilomycterus antennatus,taxon,9219.0,Chilomycterus antennatus
+5028,41270,Gonodactylus lacunatus,taxon,9221.0,Neogonodactylus lacunatus
+5028,41272,Sargocentron vexillarium,taxon,9223.0,Neoniphon vexillarium
+5028,41274,Neoniphon marianus,taxon,9225.0,Neoniphon marianus
+5028,41276,Myrichthys breviceps,taxon,9227.0,Myrichthys breviceps
+5028,41278,Haemulon carbonarium,taxon,9229.0,Haemulon carbonarium
+5028,41280,Halichoeres garnoti,taxon,9231.0,Halichoeres garnoti
+5028,41282,Octopus briareus,taxon,9233.0,Octopus briareus
+5028,41284,Sepioteuthis sepIoidea,taxon,,
+5028,41286,Bodianus rufus,taxon,4952.0,Bodianus rufus
+5028,41288,Diodon holocanthus,taxon,9236.0,Diodon holocanthus
+5028,41290,Lutjanus campechanus,taxon,9238.0,Lutjanus campechanus
+5028,41292,Lutjanus buccanella,taxon,9240.0,Lutjanus buccanella
+5028,41294,Chromis cyanea,taxon,9242.0,Chromis cyanea
+5028,41296,Anisotremus virginicus,taxon,9244.0,Anisotremus virginicus
+5028,41298,Equetus punctatus,taxon,9246.0,Equetus punctatus
+5028,41300,Amblycirrhitus pinos,taxon,9248.0,Amblycirrhitus pinos
+5028,41302,Chaetodon aculeatus,taxon,9249.0,Prognathodes aculeatus
+5028,41304,Apogon maculatus,taxon,9251.0,Apogon maculatus
+5028,41306,Chaetodon striatus,taxon,9252.0,Chaetodon striatus
+5028,41308,Opistognathus whitehurstii,taxon,9254.0,Opistognathus whitehursti
+5028,41310,Holacanthus tricolor,taxon,9256.0,Holacanthus tricolor
+5028,41312,Labrisomus kalisherae,taxon,9258.0,Gobioclinus kalisherae
+5028,41314,Atherinomorus stipes,taxon,9260.0,Atherinomorus stipes
+5028,41316,Calamus bajonado,taxon,9261.0,Calamus bajonado
+5028,41318,Balistes capriscus,taxon,9263.0,Balistes capriscus
+5028,41320,Harengula clupeola,taxon,9265.0,Harengula clupeola
+5028,41322,Mulloidichthys martinicus,taxon,9267.0,Mulloidichthys martinicus
+5028,41324,Scorpaena inermis,taxon,9269.0,Scorpaena inermis
+5028,41326,Haemulon parrai,taxon,9271.0,Haemulon parra
+5028,41325,Haemulon macrostomum,taxon,9270.0,Haemulon macrostomum
+5028,41327,Haemulon flavolineatum,taxon,9272.0,Haemulon flavolineatum
+5028,41329,Calamus pennatula,taxon,9274.0,Calamus pennatula
+5028,41331,Hemiramphus brasiliensis,taxon,9276.0,Hemiramphus brasiliensis
+5028,41333,Hemiramphus balao,taxon,9277.0,Hemiramphus balao
+5028,41335,Lutjanus cyanopterus,taxon,9279.0,Lutjanus cyanopterus
+5028,41337,Pseudupeneus maculatus,taxon,9281.0,Pseudupeneus maculatus
+5028,41339,Haemulon album,taxon,9283.0,Haemulon album
+5028,41341,Elops saurus,taxon,9285.0,Elops saurus
+5028,41343,Mycteroperca bonaci,taxon,9287.0,Mycteroperca bonaci
+5028,41345,Gymnothorax moringa,taxon,9289.0,Gymnothorax moringa
+5028,41347,Gymnothorax vicinus,taxon,9291.0,Gymnothorax vicinus
+5028,41349,Bothus lunatus,taxon,9293.0,Bothus lunatus
+5028,41351,Priacanthus arenatus,taxon,9295.0,Priacanthus arenatus
+5028,41353,Caranx latus,taxon,9297.0,Caranx latus
+5028,41355,Cephalopholis fulva,taxon,9299.0,Cephalopholis fulva
+5028,41357,Scorpaena brasiliensis,taxon,9301.0,Scorpaena brasiliensis
+5028,41359,Lutjanus analis,taxon,9303.0,Lutjanus analis
+5028,41361,Abudefduf saxatilis,taxon,9305.0,Abudefduf saxatilis
+5028,41363,Caranx ruber,taxon,9307.0,Carangoides ruber
+5028,41365,Synodus intermedius,taxon,9309.0,Synodus intermedius
+5028,41367,Lutjanus jocu,taxon,9310.0,Lutjanus jocu
+5028,41369,Lutjanus synagris,taxon,9312.0,Lutjanus synagris
+5028,41371,Scorpaenodes caribbaeus,taxon,9314.0,Scorpaenodes caribbaeus
+5028,41373,Eretmochelys imbricata,taxon,9316.0,Eretmochelys imbricata
+5028,41375,Lepidochelys kempii,taxon,9317.0,Lepidochelys kempii
+5028,41377,Epinephelus itajara,taxon,9319.0,Epinephelus itajara
+5028,41379,Scomberomorus regalis,taxon,9321.0,Scomberomorus regalis
+5028,41381,Anisotremus surinamensis,taxon,9323.0,Anisotremus surinamensis
+5028,41383,Ocyurus chrysurus,taxon,9325.0,Ocyurus chrysurus
+5028,41385,Mycteroperca venenosa,taxon,9327.0,Mycteroperca venenosa
+5028,41387,Carcharhinus acronotus,taxon,9329.0,Carcharhinus acronotus
+5028,41389,Carcharhinus limbatus,taxon,9331.0,Carcharhinus limbatus
+5028,41391,Epinephelus striatus,taxon,9333.0,Epinephelus striatus
+5028,41393,Negaprion brevirostris,taxon,9335.0,Negaprion brevirostris
+5028,41395,Sphyrna tiburo,taxon,9337.0,Sphyrna tiburo
+5028,41328,Aetobatus narinari,taxon,9273.0,Aetobatus narinari
+5028,41330,Haemulon plumieri,taxon,9275.0,Haemulon plumierii
+5028,41332,Ophichtus ophis,taxon,,
+5028,41334,Ogcocephalus nasutus,taxon,9278.0,Ogcocephalus nasutus
+5028,41336,Trachinotus goodei,taxon,9280.0,Trachinotus goodei
+5028,41338,Fistularia tabacaria,taxon,9282.0,Fistularia tabacaria
+5028,41340,Scorpaena grandicornis,taxon,9284.0,Scorpaena grandicornis
+5028,41342,Mycteroperca tigris,taxon,9286.0,Mycteroperca tigris
+5028,41344,Lutjanus griseus,taxon,9288.0,Lutjanus griseus
+5028,41346,Aulostomus maculatus,taxon,9290.0,Aulostomus maculatus
+5028,41348,Epinephelus guttatus,taxon,9292.0,Epinephelus guttatus
+5028,41350,Scorpaena plumieri,taxon,9294.0,Scorpaena plumieri
+5028,41352,Hypoplectrus puella,taxon,9296.0,Hypoplectrus puella
+5028,41354,Bothus ocellatus,taxon,9298.0,Bothus ocellatus
+5028,41356,Hypoplectrus chlorurus,taxon,9300.0,Hypoplectrus chlorurus
+5028,41358,Antennarius multiocellatus,taxon,9302.0,Antennarius multiocellatus
+5028,41360,Epinephelus adscensionis,taxon,9304.0,Epinephelus adscensionis
+5028,41362,Cephalopholis cruentata,taxon,9306.0,Cephalopholis cruentata
+5028,41364,Seriola dumerili,taxon,9308.0,Seriola dumerili
+5028,41366,Lutjanus mahagoni,taxon,,
+5028,41368,Lutjanus apodus,taxon,9311.0,Lutjanus apodus
+5028,41370,Scomberomorus cavalla,taxon,9313.0,Scomberomorus cavalla
+5028,41372,Chelonia mydas,taxon,9315.0,Chelonia mydas
+5028,41374,Caretta caretta,taxon,4457.0,Caretta caretta
+5028,41376,Dermochelys coriacea,taxon,9318.0,Dermochelys coriacea
+5028,41378,Platybelone argalus,taxon,9320.0,Platybelone argala
+5028,41380,Alphestes afer,taxon,9322.0,Alphestes afer
+5028,41382,Antennarius striatus,taxon,9324.0,Antennarius striatus
+5028,41384,Sphyraena picudilla,taxon,9326.0,Sphyraena picudilla
+5028,41386,Sphyraena barracuda,taxon,9328.0,Sphyraena barracuda
+5028,41388,Heteropriacanthus cruentatus,taxon,9330.0,Heteropriacanthus cruentatus
+5028,41390,Carcharhinus longimanus,taxon,9332.0,Carcharhinus longimanus
+5028,41392,Carcharhinus perezi,taxon,9334.0,Carcharhinus perezii
+5028,41394,Rhizoprionodon porosus,taxon,9336.0,Rhizoprionodon porosus
+5028,41396,Galeocerdo cuvieri,taxon,9338.0,Galeocerdo cuvier
+5027,40867,Planktonic bacteria,taxon,,
+5027,40869,Gymnodinium,taxon,9098.0,Gymnodinium
+5027,40871,Cladophora sp.,taxon,,
+5027,40873,Amphiroa,taxon,9101.0,Amphiroa
+5027,40875,Porolithon pachydermum,taxon,9103.0,Hydrolithon pachydermum
+5027,40877,Agelas dispar,taxon,9104.0,Agelas dispar
+5027,40879,Astrangia solitaria,taxon,9106.0,Astrangia solitaria
+5027,40881,Metis,taxon,,
+5027,40883,Microsetella rosea,taxon,9108.0,Microsetella rosea
+5027,40885,Oncaea venusta,taxon,9110.0,Oncaea venusta
+5027,40887,Abylopsis eschscholtzi,taxon,9112.0,Abylopsis eschscholtzii
+5027,40889,Oikopleura dioica,taxon,9114.0,Oikopleura dioica
+5027,40891,Climacosphenia moniligera,taxon,9115.0,Climacosphenia moniligera
+5027,40893,Aequorea macrodactyla,taxon,9116.0,Aequorea macrodactyla
+5027,40895,Eunicea asperula,taxon,9117.0,Eunicea asperula
+5027,40897,Parazoanthus swiftii,taxon,9119.0,Parazoanthus swiftii
+5027,40899,Diadema antillarum,taxon,9121.0,Diadema antillarum
+5027,40901,Eucidaris tribuloides,taxon,9123.0,Eucidaris tribuloides
+5027,40903,Lytechinus variegatus,taxon,9125.0,Lytechinus variegatus
+5027,40905,Mysidium columbiae,taxon,9127.0,Mysidium columbiae
+5027,40907,Asaphis deflorata,taxon,9128.0,Asaphis deflorata
+5027,40909,Chione cancellata,taxon,9130.0,Chione cancellata
+5027,40911,Modiolus americanus,taxon,9132.0,Modiolus americanus
+5027,40913,Lithophaga bisulcata,taxon,9134.0,Leiosolenus bisulcatus
+5027,40915,Atagema browni,taxon,9136.0,Atagema browni
+5027,40917,Collisella jamaicensis,taxon,9138.0,Collisella jamaicensis
+5027,40919,Aplysia parvula,taxon,9140.0,Aplysia parvula
+5027,40921,Calliostoma javanicum,taxon,9142.0,Calliostoma javanicum
+5027,40923,Cassis madagascariensis,taxon,9143.0,Cassis madagascariensis
+5027,40925,Cypraea cinerea,taxon,9145.0,Luria cinerea
+5027,40927,Dolicholatirus cayohuesonicus,taxon,9147.0,Dolicholatirus cayohuesonicus
+5027,40929,Triphora intermedia,taxon,9149.0,Inella intermedia
+5027,40931,Charonia variegata,taxon,9151.0,Charonia variegata
+5027,40933,Chorizopora brongniarti,taxon,9153.0,Chorizopora brongniartii
+5027,40868,Phytoplankton,taxon,,
+5027,40870,Spyridia filamentosa,taxon,9099.0,Spyridia filamentosa
+5027,40872,Laurencia papillosa,taxon,9100.0,Palisada papillosa
+5027,40874,Gracilaria,taxon,9102.0,Gracilaria
+5027,40876,Thalassia testudinum,taxon,5848.0,Thalassia testudinum
+5027,40878,Siphonodictyon,taxon,9105.0,Siphonodictyon
+5027,40880,Hermatypic corals,taxon,,
+5027,40882,Hermodice carunculata,taxon,9107.0,Hermodice carunculata
+5027,40884,Acartia spinata,taxon,9109.0,Acartia spinata
+5027,40886,Euterpina acutifrons,taxon,9111.0,Euterpina acutifrons
+5027,40888,Glossocephalus milneedwardsi,taxon,9113.0,Glossocephalus milneedwardsi
+5027,40890,Krohniita subtilis,taxon,,
+5027,40892,Aglaura sp.,taxon,,
+5027,40894,Limicina sp.,taxon,,
+5027,40896,Iciligorgia schrammi,taxon,9118.0,Iciligorgia schrammi
+5027,40898,Zoanthus solanderi,taxon,9120.0,Zoanthus solanderi
+5027,40900,Tripneustes ventricosus,taxon,9122.0,Tripneustes ventricosus
+5027,40902,Echinometra viridis,taxon,9124.0,Echinometra viridis
+5027,40904,Meoma ventricosa,taxon,9126.0,Meoma ventricosa
+5027,40906,Tellina listeri,taxon,,
+5027,40908,Parvilucina costata,taxon,9129.0,Clathrolucina costata
+5027,40910,Lima scabra,taxon,9131.0,Ctenoides scaber
+5027,40912,Chlamys ornata,taxon,9133.0,Caribachlamys ornata
+5027,40914,Pinna carnea,taxon,9135.0,Pinna carnea
+5027,40916,Diodora dysoni,taxon,9137.0,Diodora dysoni
+5027,40918,Turbo castanea,taxon,9139.0,Turbo castanea
+5027,40920,Strombus gallus,taxon,9141.0,Aliger gallus
+5027,40922,Cymphoma mcgintyi,taxon,,
+5027,40924,Cymatium pileare,taxon,9144.0,Monoplex pilearis
+5027,40926,Pisania auritula,taxon,9146.0,Gemophos auritulus
+5027,40928,Aspella paupercula,taxon,9148.0,Dermomurex pauperculus
+5027,40930,Sinum perspectivum,taxon,9150.0,Sinum perspectivum
+5027,40932,Modulus modulus,taxon,9152.0,Modulus modulus
+5027,40934,Kinbergonuphis sp.,taxon,,
+5027,40936,Isostichopus badionotus,taxon,9155.0,Isostichopus badionotus
+5027,40935,Eunice mutilata,taxon,9154.0,Eunice mutilata
+5027,40937,Domecia acanthophora,taxon,9156.0,Domecia acanthophora
+5027,40939,Petrolisthes jugosus,taxon,9158.0,Petrolisthes jugosus
+5027,40941,Paguristes cadenati,taxon,9160.0,Paguristes cadenati
+5027,40943,Leucozonia nassa,taxon,9162.0,Leucozonia nassa
+5027,40945,Micropanope barbadensis,taxon,9164.0,Garthiope barbadensis
+5027,40947,Tozeuma carolinense,taxon,9166.0,Tozeuma carolinense
+5027,40949,Pitho aculeata,taxon,9168.0,Pitho aculeata
+5027,40951,Gnathophylloides mineri,taxon,9170.0,Gnathophylloides mineri
+5027,40953,Scyllarus sp.,taxon,,
+5027,40955,Panopeus bermudensis,taxon,9173.0,Acantholobulus bermudensis
+5027,40957,Calcinus tibicen,taxon,9175.0,Calcinus tibicen
+5027,40959,Microphrys antillensis,taxon,9176.0,Microphrys antillensis
+5027,40961,Stenorhynchus seticornis,taxon,9178.0,Stenorhynchus seticornis
+5027,40963,Parapinnixa hendersoni,taxon,9180.0,Parapinnixa hendersoni
+5027,40965,Pachycheles riisei,taxon,9182.0,Pachycheles riisei
+5027,40967,Alpheus armatus,taxon,9184.0,Alpheus armatus
+5027,40969,Alpheus armillatus,taxon,9186.0,Alpheus armillatus
+5027,40971,Aluterus schoepfii,taxon,9188.0,Aluterus schoepfii
+5027,40973,Stegastes dorsopunicans,taxon,9190.0,Stegastes adustus
+5027,40975,Acanthurus bahianus,taxon,9192.0,Acanthurus bahianus
+5027,40977,Lactophrys trigonus,taxon,9194.0,Lactophrys trigonus
+5027,40979,Anchoa lyolepis,taxon,9196.0,Anchoa lyolepis
+5027,40981,Chaetodipterus faber,taxon,9198.0,Chaetodipterus faber
+5027,40983,Holacanthus ciliaris,taxon,9199.0,Holacanthus ciliaris
+5027,40985,Scarus taeniopterus,taxon,9201.0,Scarus taeniopterus
+5027,40987,Acanthostracion polygonius,taxon,9203.0,Acanthostracion polygonius
+5027,40989,Microspathodon chrysurus,taxon,9205.0,Microspathodon chrysurus
+5027,40991,Entomacrodus nigricans,taxon,9207.0,Entomacrodus nigricans
+5027,40993,Scarus vetula,taxon,9209.0,Scarus vetula
+5027,40995,Harengula humeralis,taxon,9211.0,Harengula humeralis
+5027,40997,Abudefduf taurus,taxon,9213.0,Abudefduf taurus
+5027,40999,Sphoeroides spengleri,taxon,9215.0,Sphoeroides spengleri
+5027,41001,Coryphopterus glaucofraenum,taxon,9217.0,Coryphopterus glaucofraenum
+5027,41003,Chilomycterus antennatus,taxon,9219.0,Chilomycterus antennatus
+5027,41005,Gonodactylus lacunatus,taxon,9221.0,Neogonodactylus lacunatus
+5027,41007,Sargocentron vexillarium,taxon,9223.0,Neoniphon vexillarium
+5027,41009,Neoniphon marianus,taxon,9225.0,Neoniphon marianus
+5027,41011,Myrichthys breviceps,taxon,9227.0,Myrichthys breviceps
+5027,41013,Haemulon carbonarium,taxon,9229.0,Haemulon carbonarium
+5027,41015,Halichoeres garnoti,taxon,9231.0,Halichoeres garnoti
+5027,41017,Octopus briareus,taxon,9233.0,Octopus briareus
+5027,41019,Sepioteuthis sepIoidea,taxon,,
+5027,41021,Bodianus rufus,taxon,4952.0,Bodianus rufus
+5027,41023,Diodon holocanthus,taxon,9236.0,Diodon holocanthus
+5027,41025,Lutjanus campechanus,taxon,9238.0,Lutjanus campechanus
+5027,41027,Lutjanus buccanella,taxon,9240.0,Lutjanus buccanella
+5027,41029,Chromis cyanea,taxon,9242.0,Chromis cyanea
+5027,41031,Anisotremus virginicus,taxon,9244.0,Anisotremus virginicus
+5027,41033,Equetus punctatus,taxon,9246.0,Equetus punctatus
+5027,41035,Amblycirrhitus pinos,taxon,9248.0,Amblycirrhitus pinos
+5027,41037,Chaetodon aculeatus,taxon,9249.0,Prognathodes aculeatus
+5027,41039,Apogon maculatus,taxon,9251.0,Apogon maculatus
+5027,41041,Chaetodon striatus,taxon,9252.0,Chaetodon striatus
+5027,41043,Opistognathus whitehurstii,taxon,9254.0,Opistognathus whitehursti
+5027,41045,Holacanthus tricolor,taxon,9256.0,Holacanthus tricolor
+5027,41047,Labrisomus kalisherae,taxon,9258.0,Gobioclinus kalisherae
+5027,41049,Atherinomorus stipes,taxon,9260.0,Atherinomorus stipes
+5027,41051,Calamus bajonado,taxon,9261.0,Calamus bajonado
+5027,41053,Balistes capriscus,taxon,9263.0,Balistes capriscus
+5027,41055,Harengula clupeola,taxon,9265.0,Harengula clupeola
+5027,41057,Mulloidichthys martinicus,taxon,9267.0,Mulloidichthys martinicus
+5027,41059,Scorpaena inermis,taxon,9269.0,Scorpaena inermis
+5027,41061,Haemulon parrai,taxon,9271.0,Haemulon parra
+5027,41063,Aetobatus narinari,taxon,9273.0,Aetobatus narinari
+5027,41065,Haemulon plumieri,taxon,9275.0,Haemulon plumierii
+5027,41067,Ophichtus ophis,taxon,,
+5027,41069,Ogcocephalus nasutus,taxon,9278.0,Ogcocephalus nasutus
+5027,41071,Trachinotus goodei,taxon,9280.0,Trachinotus goodei
+5027,41073,Fistularia tabacaria,taxon,9282.0,Fistularia tabacaria
+5027,41075,Scorpaena grandicornis,taxon,9284.0,Scorpaena grandicornis
+5027,41077,Mycteroperca tigris,taxon,9286.0,Mycteroperca tigris
+5027,41079,Lutjanus griseus,taxon,9288.0,Lutjanus griseus
+5027,41081,Aulostomus maculatus,taxon,9290.0,Aulostomus maculatus
+5027,41083,Epinephelus guttatus,taxon,9292.0,Epinephelus guttatus
+5027,41085,Scorpaena plumieri,taxon,9294.0,Scorpaena plumieri
+5027,41087,Hypoplectrus puella,taxon,9296.0,Hypoplectrus puella
+5027,41089,Bothus ocellatus,taxon,9298.0,Bothus ocellatus
+5027,41091,Hypoplectrus chlorurus,taxon,9300.0,Hypoplectrus chlorurus
+5027,41093,Antennarius multiocellatus,taxon,9302.0,Antennarius multiocellatus
+5027,41095,Epinephelus adscensionis,taxon,9304.0,Epinephelus adscensionis
+5027,41097,Cephalopholis cruentata,taxon,9306.0,Cephalopholis cruentata
+5027,41099,Seriola dumerili,taxon,9308.0,Seriola dumerili
+5027,41101,Lutjanus mahagoni,taxon,,
+5027,41103,Lutjanus apodus,taxon,9311.0,Lutjanus apodus
+5027,41105,Scomberomorus cavalla,taxon,9313.0,Scomberomorus cavalla
+5027,41107,Chelonia mydas,taxon,9315.0,Chelonia mydas
+5027,41109,Caretta caretta,taxon,4457.0,Caretta caretta
+5027,41111,Dermochelys coriacea,taxon,9318.0,Dermochelys coriacea
+5027,41113,Platybelone argalus,taxon,9320.0,Platybelone argala
+5027,41115,Alphestes afer,taxon,9322.0,Alphestes afer
+5027,41117,Antennarius striatus,taxon,9324.0,Antennarius striatus
+5027,41119,Sphyraena picudilla,taxon,9326.0,Sphyraena picudilla
+5027,41121,Sphyraena barracuda,taxon,9328.0,Sphyraena barracuda
+5027,41123,Heteropriacanthus cruentatus,taxon,9330.0,Heteropriacanthus cruentatus
+5027,41125,Carcharhinus longimanus,taxon,9332.0,Carcharhinus longimanus
+5027,41127,Carcharhinus perezi,taxon,9334.0,Carcharhinus perezii
+5027,40938,Hexapanopeus caribbaeus,taxon,9157.0,Hexapanopeus caribbaeus
+5027,40940,Mithrax coryphe,taxon,9159.0,Mithraculus coryphe
+5027,40942,Ophiocoma echinata,taxon,9161.0,Ophiocoma echinata
+5027,40944,Carpilius corallinus,taxon,9163.0,Carpilius corallinus
+5027,40946,Hippolyte pleuracanthus,taxon,9165.0,Hippolyte pleuracanthus
+5027,40948,Microphrys interruptus,taxon,9167.0,Omalacantha interrupta
+5027,40950,Panulirus argus,taxon,9169.0,Panulirus argus
+5027,40952,Pagurus bonairensis,taxon,9171.0,Pagurus bonairensis
+5027,40954,Calappa angusta,taxon,9172.0,Cyclozodion angustum
+5027,40956,Pilumnus dasypodus,taxon,9174.0,Pilumnus dasypodus
+5027,40958,Parapinnixa bouvier,taxon,,
+5027,40960,Paguristes grayi,taxon,9177.0,Paguristes grayi
+5027,40962,Pilumnus lacteus,taxon,9179.0,Pilumnus lacteus
+5027,40964,Epialtus kingsleyi,taxon,9181.0,Epialtoides kingsleyi
+5027,40966,Synalpheus brevicarpus,taxon,9183.0,Synalpheus brevicarpus
+5027,40968,Ambidexter symmetricus,taxon,9185.0,Ambidexter symmetricus
+5027,40970,Penaeus duorarum,taxon,9187.0,Penaeus duorarum
+5027,40972,Acanthostracion quadricornis,taxon,9189.0,Acanthostracion quadricornis
+5027,40974,Centropyge argi,taxon,9191.0,Centropyge argi
+5027,40976,Aluterus scripta,taxon,9193.0,Aluterus scriptus
+5027,40978,Archosargus rhomboidalis,taxon,9195.0,Archosargus rhomboidalis
+5027,40980,Pomacanthus arcuatus,taxon,9197.0,Pomacanthus arcuatus
+5027,40982,Diplodus caudimaculata,taxon,,
+5027,40984,Melichthys niger,taxon,9200.0,Melichthys niger
+5027,40986,Chaetodon capistratus,taxon,9202.0,Chaetodon capistratus
+5027,40988,Chaetodon sedentarius,taxon,9204.0,Chaetodon sedentarius
+5027,40990,Parablennius marmoreus,taxon,9206.0,Parablennius marmoreus
+5027,40992,Gnatholepis thompsoni,taxon,9208.0,Gnatholepis thompsoni
+5027,40994,Lactophrys bicaudalis,taxon,9210.0,Lactophrys bicaudalis
+5027,40996,Lactophrys triqueter,taxon,9212.0,Rhinesomus triqueter
+5027,40998,Canthigaster rostrata,taxon,9214.0,Canthigaster rostrata
+5027,41000,Monacanthus ciliatus,taxon,9216.0,Monacanthus ciliatus
+5027,41002,Anchoa hepsetus,taxon,9218.0,Anchoa hepsetus
+5027,41004,Halichoeres bivittatus,taxon,9220.0,Halichoeres bivittatus
+5027,41006,Holocentrus ascensionis,taxon,9222.0,Holocentrus adscensionis
+5027,41008,Haemulon aurolineatum,taxon,9224.0,Haemulon aurolineatum
+5027,41010,Haemulon chrysargyreum,taxon,9226.0,Brachygenys chrysargyreum
+5027,41012,Holocentrus coruscus,taxon,9228.0,Sargocentron coruscum
+5027,41014,Halichoeres poeyi,taxon,9230.0,Halichoeres poeyi
+5027,41016,Ginglymostoma cirratum,taxon,9232.0,Ginglymostoma cirratum
+5027,41018,Loligo plei,taxon,9234.0,Doryteuthis pleii
+5027,41020,Octopus vulgaris,taxon,4466.0,Octopus vulgaris
+5027,41022,Gonodactylus bredini,taxon,9235.0,Neogonodactylus bredini
+5027,41024,Labrisomus nuchipinnis,taxon,9237.0,Labrisomus nuchipinnis
+5027,41026,Echeneis naucrates,taxon,9239.0,Echeneis naucrates
+5027,41028,Equetus lanceolatus,taxon,9241.0,Equetus lanceolatus
+5027,41030,Halichoeres maculipinna,taxon,9243.0,Halichoeres maculipinna
+5027,41032,Thalassoma bifasciatum,taxon,9245.0,Thalassoma bifasciatum
+5027,41034,Myripristis jacobus,taxon,9247.0,Myripristis jacobus
+5027,41036,Phaeoptyx conklini / Pempheris schomburgki,taxon,,
+5027,41038,Opistognathus maxillosus,taxon,9250.0,Opistognathus maxillosus
+5027,41040,Odontoscion dentex / Pareques acuminatus,taxon,,
+5027,41042,Serranus tigrinus,taxon,9253.0,Serranus tigrinus
+5027,41044,Echidna catenata,taxon,9255.0,Echidna catenata
+5027,41046,Gerres cinereus,taxon,9257.0,Gerres cinereus
+5027,41048,Opistognathus macrognathus,taxon,9259.0,Opistognathus macrognathus
+5027,41050,Balistes vetula / Calamus calamus,taxon,,
+5027,41052,Lachnolaimus maximus,taxon,9262.0,Lachnolaimus maximus
+5027,41054,Hypoatherina harringtonensis,taxon,9264.0,Hypoatherina harringtonensis
+5027,41056,Opisthonema oglinum,taxon,9266.0,Opisthonema oglinum
+5027,41058,Haemulon sciurus,taxon,9268.0,Haemulon sciurus
+5027,41060,Haemulon macrostomum,taxon,9270.0,Haemulon macrostomum
+5027,41062,Haemulon flavolineatum,taxon,9272.0,Haemulon flavolineatum
+5027,41064,Calamus pennatula,taxon,9274.0,Calamus pennatula
+5027,41066,Hemiramphus brasiliensis,taxon,9276.0,Hemiramphus brasiliensis
+5027,41068,Hemiramphus balao,taxon,9277.0,Hemiramphus balao
+5027,41070,Lutjanus cyanopterus,taxon,9279.0,Lutjanus cyanopterus
+5027,41072,Pseudupeneus maculatus,taxon,9281.0,Pseudupeneus maculatus
+5027,41074,Haemulon album,taxon,9283.0,Haemulon album
+5027,41076,Elops saurus,taxon,9285.0,Elops saurus
+5027,41078,Mycteroperca bonaci,taxon,9287.0,Mycteroperca bonaci
+5027,41080,Gymnothorax moringa,taxon,9289.0,Gymnothorax moringa
+5027,41082,Gymnothorax vicinus,taxon,9291.0,Gymnothorax vicinus
+5027,41084,Bothus lunatus,taxon,9293.0,Bothus lunatus
+5027,41086,Priacanthus arenatus,taxon,9295.0,Priacanthus arenatus
+5027,41088,Caranx latus,taxon,9297.0,Caranx latus
+5027,41090,Cephalopholis fulva,taxon,9299.0,Cephalopholis fulva
+5027,41092,Scorpaena brasiliensis,taxon,9301.0,Scorpaena brasiliensis
+5027,41094,Lutjanus analis,taxon,9303.0,Lutjanus analis
+5027,41096,Abudefduf saxatilis,taxon,9305.0,Abudefduf saxatilis
+5027,41098,Caranx ruber,taxon,9307.0,Carangoides ruber
+5027,41100,Synodus intermedius,taxon,9309.0,Synodus intermedius
+5027,41102,Lutjanus jocu,taxon,9310.0,Lutjanus jocu
+5027,41104,Lutjanus synagris,taxon,9312.0,Lutjanus synagris
+5027,41106,Scorpaenodes caribbaeus,taxon,9314.0,Scorpaenodes caribbaeus
+5027,41108,Eretmochelys imbricata,taxon,9316.0,Eretmochelys imbricata
+5027,41110,Lepidochelys kempii,taxon,9317.0,Lepidochelys kempii
+5027,41112,Epinephelus itajara,taxon,9319.0,Epinephelus itajara
+5027,41114,Scomberomorus regalis,taxon,9321.0,Scomberomorus regalis
+5027,41116,Anisotremus surinamensis,taxon,9323.0,Anisotremus surinamensis
+5027,41118,Ocyurus chrysurus,taxon,9325.0,Ocyurus chrysurus
+5027,41120,Mycteroperca venenosa,taxon,9327.0,Mycteroperca venenosa
+5027,41122,Carcharhinus acronotus,taxon,9329.0,Carcharhinus acronotus
+5027,41124,Carcharhinus limbatus,taxon,9331.0,Carcharhinus limbatus
+5027,41126,Epinephelus striatus,taxon,9333.0,Epinephelus striatus
+5027,41128,Negaprion brevirostris,taxon,9335.0,Negaprion brevirostris
+5027,41130,Sphyrna tiburo,taxon,9337.0,Sphyrna tiburo
+5027,41129,Rhizoprionodon porosus,taxon,9336.0,Rhizoprionodon porosus
+5027,41131,Galeocerdo cuvieri,taxon,9338.0,Galeocerdo cuvier
+5029,40602,Planktonic bacteria,taxon,,
+5029,40603,Phytoplankton,taxon,,
+5029,40604,Gymnodinium,taxon,9098.0,Gymnodinium
+5029,40605,Spyridia filamentosa,taxon,9099.0,Spyridia filamentosa
+5029,40606,Cladophora sp.,taxon,,
+5029,40607,Laurencia papillosa,taxon,9100.0,Palisada papillosa
+5029,40608,Amphiroa,taxon,9101.0,Amphiroa
+5029,40609,Gracilaria,taxon,9102.0,Gracilaria
+5029,40610,Porolithon pachydermum,taxon,9103.0,Hydrolithon pachydermum
+5029,40611,Thalassia testudinum,taxon,5848.0,Thalassia testudinum
+5029,40612,Agelas dispar,taxon,9104.0,Agelas dispar
+5029,40613,Siphonodictyon,taxon,9105.0,Siphonodictyon
+5029,40614,Astrangia solitaria,taxon,9106.0,Astrangia solitaria
+5029,40615,Hermatypic corals,taxon,,
+5029,40616,Metis,taxon,,
+5029,40617,Hermodice carunculata,taxon,9107.0,Hermodice carunculata
+5029,40618,Microsetella rosea,taxon,9108.0,Microsetella rosea
+5029,40619,Acartia spinata,taxon,9109.0,Acartia spinata
+5029,40620,Oncaea venusta,taxon,9110.0,Oncaea venusta
+5029,40621,Euterpina acutifrons,taxon,9111.0,Euterpina acutifrons
+5029,40622,Abylopsis eschscholtzi,taxon,9112.0,Abylopsis eschscholtzii
+5029,40623,Glossocephalus milneedwardsi,taxon,9113.0,Glossocephalus milneedwardsi
+5029,40624,Oikopleura dioica,taxon,9114.0,Oikopleura dioica
+5029,40625,Krohniita subtilis,taxon,,
+5029,40626,Climacosphenia moniligera,taxon,9115.0,Climacosphenia moniligera
+5029,40627,Aglaura sp.,taxon,,
+5029,40628,Aequorea macrodactyla,taxon,9116.0,Aequorea macrodactyla
+5029,40629,Limicina sp.,taxon,,
+5029,40630,Eunicea asperula,taxon,9117.0,Eunicea asperula
+5029,40631,Iciligorgia schrammi,taxon,9118.0,Iciligorgia schrammi
+5029,40632,Parazoanthus swiftii,taxon,9119.0,Parazoanthus swiftii
+5029,40633,Zoanthus solanderi,taxon,9120.0,Zoanthus solanderi
+5029,40634,Diadema antillarum,taxon,9121.0,Diadema antillarum
+5029,40635,Tripneustes ventricosus,taxon,9122.0,Tripneustes ventricosus
+5029,40636,Eucidaris tribuloides,taxon,9123.0,Eucidaris tribuloides
+5029,40637,Echinometra viridis,taxon,9124.0,Echinometra viridis
+5029,40638,Lytechinus variegatus,taxon,9125.0,Lytechinus variegatus
+5029,40639,Meoma ventricosa,taxon,9126.0,Meoma ventricosa
+5029,40640,Mysidium columbiae,taxon,9127.0,Mysidium columbiae
+5029,40641,Tellina listeri,taxon,,
+5029,40642,Asaphis deflorata,taxon,9128.0,Asaphis deflorata
+5029,40643,Parvilucina costata,taxon,9129.0,Clathrolucina costata
+5029,40644,Chione cancellata,taxon,9130.0,Chione cancellata
+5029,40645,Lima scabra,taxon,9131.0,Ctenoides scaber
+5029,40646,Modiolus americanus,taxon,9132.0,Modiolus americanus
+5029,40647,Chlamys ornata,taxon,9133.0,Caribachlamys ornata
+5029,40648,Lithophaga bisulcata,taxon,9134.0,Leiosolenus bisulcatus
+5029,40649,Pinna carnea,taxon,9135.0,Pinna carnea
+5029,40650,Atagema browni,taxon,9136.0,Atagema browni
+5029,40651,Diodora dysoni,taxon,9137.0,Diodora dysoni
+5029,40652,Collisella jamaicensis,taxon,9138.0,Collisella jamaicensis
+5029,40653,Turbo castanea,taxon,9139.0,Turbo castanea
+5029,40654,Aplysia parvula,taxon,9140.0,Aplysia parvula
+5029,40655,Strombus gallus,taxon,9141.0,Aliger gallus
+5029,40656,Calliostoma javanicum,taxon,9142.0,Calliostoma javanicum
+5029,40657,Cymphoma mcgintyi,taxon,,
+5029,40658,Cassis madagascariensis,taxon,9143.0,Cassis madagascariensis
+5029,40659,Cymatium pileare,taxon,9144.0,Monoplex pilearis
+5029,40660,Cypraea cinerea,taxon,9145.0,Luria cinerea
+5029,40661,Pisania auritula,taxon,9146.0,Gemophos auritulus
+5029,40662,Dolicholatirus cayohuesonicus,taxon,9147.0,Dolicholatirus cayohuesonicus
+5029,40663,Aspella paupercula,taxon,9148.0,Dermomurex pauperculus
+5029,40664,Triphora intermedia,taxon,9149.0,Inella intermedia
+5029,40665,Sinum perspectivum,taxon,9150.0,Sinum perspectivum
+5029,40666,Charonia variegata,taxon,9151.0,Charonia variegata
+5029,40667,Modulus modulus,taxon,9152.0,Modulus modulus
+5029,40668,Chorizopora brongniarti,taxon,9153.0,Chorizopora brongniartii
+5029,40669,Kinbergonuphis sp.,taxon,,
+5029,40670,Eunice mutilata,taxon,9154.0,Eunice mutilata
+5029,40671,Isostichopus badionotus,taxon,9155.0,Isostichopus badionotus
+5029,40672,Domecia acanthophora,taxon,9156.0,Domecia acanthophora
+5029,40673,Hexapanopeus caribbaeus,taxon,9157.0,Hexapanopeus caribbaeus
+5029,40674,Petrolisthes jugosus,taxon,9158.0,Petrolisthes jugosus
+5029,40675,Mithrax coryphe,taxon,9159.0,Mithraculus coryphe
+5029,40676,Paguristes cadenati,taxon,9160.0,Paguristes cadenati
+5029,40677,Ophiocoma echinata,taxon,9161.0,Ophiocoma echinata
+5029,40678,Leucozonia nassa,taxon,9162.0,Leucozonia nassa
+5029,40679,Carpilius corallinus,taxon,9163.0,Carpilius corallinus
+5029,40680,Micropanope barbadensis,taxon,9164.0,Garthiope barbadensis
+5029,40681,Hippolyte pleuracanthus,taxon,9165.0,Hippolyte pleuracanthus
+5029,40682,Tozeuma carolinense,taxon,9166.0,Tozeuma carolinense
+5029,40683,Microphrys interruptus,taxon,9167.0,Omalacantha interrupta
+5029,40684,Pitho aculeata,taxon,9168.0,Pitho aculeata
+5029,40685,Panulirus argus,taxon,9169.0,Panulirus argus
+5029,40686,Gnathophylloides mineri,taxon,9170.0,Gnathophylloides mineri
+5029,40687,Pagurus bonairensis,taxon,9171.0,Pagurus bonairensis
+5029,40688,Scyllarus sp.,taxon,,
+5029,40689,Calappa angusta,taxon,9172.0,Cyclozodion angustum
+5029,40690,Panopeus bermudensis,taxon,9173.0,Acantholobulus bermudensis
+5029,40691,Pilumnus dasypodus,taxon,9174.0,Pilumnus dasypodus
+5029,40692,Calcinus tibicen,taxon,9175.0,Calcinus tibicen
+5029,40693,Parapinnixa bouvier,taxon,,
+5029,40694,Microphrys antillensis,taxon,9176.0,Microphrys antillensis
+5029,40695,Paguristes grayi,taxon,9177.0,Paguristes grayi
+5029,40696,Stenorhynchus seticornis,taxon,9178.0,Stenorhynchus seticornis
+5029,40697,Pilumnus lacteus,taxon,9179.0,Pilumnus lacteus
+5029,40698,Parapinnixa hendersoni,taxon,9180.0,Parapinnixa hendersoni
+5029,40699,Epialtus kingsleyi,taxon,9181.0,Epialtoides kingsleyi
+5029,40700,Pachycheles riisei,taxon,9182.0,Pachycheles riisei
+5029,40701,Synalpheus brevicarpus,taxon,9183.0,Synalpheus brevicarpus
+5029,40702,Alpheus armatus,taxon,9184.0,Alpheus armatus
+5029,40703,Ambidexter symmetricus,taxon,9185.0,Ambidexter symmetricus
+5029,40704,Alpheus armillatus,taxon,9186.0,Alpheus armillatus
+5029,40705,Penaeus duorarum,taxon,9187.0,Penaeus duorarum
+5029,40706,Aluterus schoepfii,taxon,9188.0,Aluterus schoepfii
+5029,40707,Acanthostracion quadricornis,taxon,9189.0,Acanthostracion quadricornis
+5029,40708,Stegastes dorsopunicans,taxon,9190.0,Stegastes adustus
+5029,40709,Centropyge argi,taxon,9191.0,Centropyge argi
+5029,40710,Acanthurus bahianus,taxon,9192.0,Acanthurus bahianus
+5029,40711,Aluterus scripta,taxon,9193.0,Aluterus scriptus
+5029,40712,Lactophrys trigonus,taxon,9194.0,Lactophrys trigonus
+5029,40713,Archosargus rhomboidalis,taxon,9195.0,Archosargus rhomboidalis
+5029,40714,Anchoa lyolepis,taxon,9196.0,Anchoa lyolepis
+5029,40715,Pomacanthus arcuatus,taxon,9197.0,Pomacanthus arcuatus
+5029,40716,Chaetodipterus faber,taxon,9198.0,Chaetodipterus faber
+5029,40717,Diplodus caudimaculata,taxon,,
+5029,40718,Holacanthus ciliaris,taxon,9199.0,Holacanthus ciliaris
+5029,40719,Melichthys niger,taxon,9200.0,Melichthys niger
+5029,40720,Scarus taeniopterus,taxon,9201.0,Scarus taeniopterus
+5029,40721,Chaetodon capistratus,taxon,9202.0,Chaetodon capistratus
+5029,40722,Acanthostracion polygonius,taxon,9203.0,Acanthostracion polygonius
+5029,40723,Chaetodon sedentarius,taxon,9204.0,Chaetodon sedentarius
+5029,40724,Microspathodon chrysurus,taxon,9205.0,Microspathodon chrysurus
+5029,40725,Parablennius marmoreus,taxon,9206.0,Parablennius marmoreus
+5029,40726,Entomacrodus nigricans,taxon,9207.0,Entomacrodus nigricans
+5029,40727,Gnatholepis thompsoni,taxon,9208.0,Gnatholepis thompsoni
+5029,40728,Scarus vetula,taxon,9209.0,Scarus vetula
+5029,40729,Lactophrys bicaudalis,taxon,9210.0,Lactophrys bicaudalis
+5029,40730,Harengula humeralis,taxon,9211.0,Harengula humeralis
+5029,40731,Lactophrys triqueter,taxon,9212.0,Rhinesomus triqueter
+5029,40732,Abudefduf taurus,taxon,9213.0,Abudefduf taurus
+5029,40733,Canthigaster rostrata,taxon,9214.0,Canthigaster rostrata
+5029,40734,Sphoeroides spengleri,taxon,9215.0,Sphoeroides spengleri
+5029,40735,Monacanthus ciliatus,taxon,9216.0,Monacanthus ciliatus
+5029,40736,Coryphopterus glaucofraenum,taxon,9217.0,Coryphopterus glaucofraenum
+5029,40737,Anchoa hepsetus,taxon,9218.0,Anchoa hepsetus
+5029,40738,Chilomycterus antennatus,taxon,9219.0,Chilomycterus antennatus
+5029,40739,Halichoeres bivittatus,taxon,9220.0,Halichoeres bivittatus
+5029,40741,Holocentrus ascensionis,taxon,9222.0,Holocentrus adscensionis
+5029,40743,Haemulon aurolineatum,taxon,9224.0,Haemulon aurolineatum
+5029,40745,Haemulon chrysargyreum,taxon,9226.0,Brachygenys chrysargyreum
+5029,40747,Holocentrus coruscus,taxon,9228.0,Sargocentron coruscum
+5029,40749,Halichoeres poeyi,taxon,9230.0,Halichoeres poeyi
+5029,40751,Ginglymostoma cirratum,taxon,9232.0,Ginglymostoma cirratum
+5029,40753,Loligo plei,taxon,9234.0,Doryteuthis pleii
+5029,40755,Octopus vulgaris,taxon,4466.0,Octopus vulgaris
+5029,40757,Gonodactylus bredini,taxon,9235.0,Neogonodactylus bredini
+5029,40759,Labrisomus nuchipinnis,taxon,9237.0,Labrisomus nuchipinnis
+5029,40761,Echeneis naucrates,taxon,9239.0,Echeneis naucrates
+5029,40763,Equetus lanceolatus,taxon,9241.0,Equetus lanceolatus
+5029,40765,Halichoeres maculipinna,taxon,9243.0,Halichoeres maculipinna
+5029,40767,Thalassoma bifasciatum,taxon,9245.0,Thalassoma bifasciatum
+5029,40769,Myripristis jacobus,taxon,9247.0,Myripristis jacobus
+5029,40771,Phaeoptyx conklini / Pempheris schomburgki,taxon,,
+5029,40773,Opistognathus maxillosus,taxon,9250.0,Opistognathus maxillosus
+5029,40775,Odontoscion dentex / Pareques acuminatus,taxon,,
+5029,40777,Serranus tigrinus,taxon,9253.0,Serranus tigrinus
+5029,40779,Echidna catenata,taxon,9255.0,Echidna catenata
+5029,40781,Gerres cinereus,taxon,9257.0,Gerres cinereus
+5029,40783,Opistognathus macrognathus,taxon,9259.0,Opistognathus macrognathus
+5029,40785,Balistes vetula / Calamus calamus,taxon,,
+5029,40787,Lachnolaimus maximus,taxon,9262.0,Lachnolaimus maximus
+5029,40789,Hypoatherina harringtonensis,taxon,9264.0,Hypoatherina harringtonensis
+5029,40791,Opisthonema oglinum,taxon,9266.0,Opisthonema oglinum
+5029,40793,Haemulon sciurus,taxon,9268.0,Haemulon sciurus
+5029,40795,Haemulon macrostomum,taxon,9270.0,Haemulon macrostomum
+5029,40797,Haemulon flavolineatum,taxon,9272.0,Haemulon flavolineatum
+5029,40799,Calamus pennatula,taxon,9274.0,Calamus pennatula
+5029,40801,Hemiramphus brasiliensis,taxon,9276.0,Hemiramphus brasiliensis
+5029,40803,Hemiramphus balao,taxon,9277.0,Hemiramphus balao
+5029,40805,Lutjanus cyanopterus,taxon,9279.0,Lutjanus cyanopterus
+5029,40807,Pseudupeneus maculatus,taxon,9281.0,Pseudupeneus maculatus
+5029,40809,Haemulon album,taxon,9283.0,Haemulon album
+5029,40811,Elops saurus,taxon,9285.0,Elops saurus
+5029,40813,Mycteroperca bonaci,taxon,9287.0,Mycteroperca bonaci
+5029,40815,Gymnothorax moringa,taxon,9289.0,Gymnothorax moringa
+5029,40817,Gymnothorax vicinus,taxon,9291.0,Gymnothorax vicinus
+5029,40819,Bothus lunatus,taxon,9293.0,Bothus lunatus
+5029,40821,Priacanthus arenatus,taxon,9295.0,Priacanthus arenatus
+5029,40823,Caranx latus,taxon,9297.0,Caranx latus
+5029,40825,Cephalopholis fulva,taxon,9299.0,Cephalopholis fulva
+5029,40827,Scorpaena brasiliensis,taxon,9301.0,Scorpaena brasiliensis
+5029,40829,Lutjanus analis,taxon,9303.0,Lutjanus analis
+5029,40831,Abudefduf saxatilis,taxon,9305.0,Abudefduf saxatilis
+5029,40833,Caranx ruber,taxon,9307.0,Carangoides ruber
+5029,40835,Synodus intermedius,taxon,9309.0,Synodus intermedius
+5029,40837,Lutjanus jocu,taxon,9310.0,Lutjanus jocu
+5029,40839,Lutjanus synagris,taxon,9312.0,Lutjanus synagris
+5029,40841,Scorpaenodes caribbaeus,taxon,9314.0,Scorpaenodes caribbaeus
+5029,40843,Eretmochelys imbricata,taxon,9316.0,Eretmochelys imbricata
+5029,40845,Lepidochelys kempii,taxon,9317.0,Lepidochelys kempii
+5029,40847,Epinephelus itajara,taxon,9319.0,Epinephelus itajara
+5029,40849,Scomberomorus regalis,taxon,9321.0,Scomberomorus regalis
+5029,40851,Anisotremus surinamensis,taxon,9323.0,Anisotremus surinamensis
+5029,40853,Ocyurus chrysurus,taxon,9325.0,Ocyurus chrysurus
+5029,40855,Mycteroperca venenosa,taxon,9327.0,Mycteroperca venenosa
+5029,40857,Carcharhinus acronotus,taxon,9329.0,Carcharhinus acronotus
+5029,40859,Carcharhinus limbatus,taxon,9331.0,Carcharhinus limbatus
+5029,40861,Epinephelus striatus,taxon,9333.0,Epinephelus striatus
+5029,40863,Negaprion brevirostris,taxon,9335.0,Negaprion brevirostris
+5029,40865,Sphyrna tiburo,taxon,9337.0,Sphyrna tiburo
+5029,40740,Gonodactylus lacunatus,taxon,9221.0,Neogonodactylus lacunatus
+5029,40742,Sargocentron vexillarium,taxon,9223.0,Neoniphon vexillarium
+5029,40744,Neoniphon marianus,taxon,9225.0,Neoniphon marianus
+5029,40746,Myrichthys breviceps,taxon,9227.0,Myrichthys breviceps
+5029,40748,Haemulon carbonarium,taxon,9229.0,Haemulon carbonarium
+5029,40750,Halichoeres garnoti,taxon,9231.0,Halichoeres garnoti
+5029,40752,Octopus briareus,taxon,9233.0,Octopus briareus
+5029,40754,Sepioteuthis sepIoidea,taxon,,
+5029,40756,Bodianus rufus,taxon,4952.0,Bodianus rufus
+5029,40758,Diodon holocanthus,taxon,9236.0,Diodon holocanthus
+5029,40760,Lutjanus campechanus,taxon,9238.0,Lutjanus campechanus
+5029,40762,Lutjanus buccanella,taxon,9240.0,Lutjanus buccanella
+5029,40764,Chromis cyanea,taxon,9242.0,Chromis cyanea
+5029,40766,Anisotremus virginicus,taxon,9244.0,Anisotremus virginicus
+5029,40768,Equetus punctatus,taxon,9246.0,Equetus punctatus
+5029,40770,Amblycirrhitus pinos,taxon,9248.0,Amblycirrhitus pinos
+5029,40772,Chaetodon aculeatus,taxon,9249.0,Prognathodes aculeatus
+5029,40774,Apogon maculatus,taxon,9251.0,Apogon maculatus
+5029,40776,Chaetodon striatus,taxon,9252.0,Chaetodon striatus
+5029,40778,Opistognathus whitehurstii,taxon,9254.0,Opistognathus whitehursti
+5029,40780,Holacanthus tricolor,taxon,9256.0,Holacanthus tricolor
+5029,40782,Labrisomus kalisherae,taxon,9258.0,Gobioclinus kalisherae
+5029,40784,Atherinomorus stipes,taxon,9260.0,Atherinomorus stipes
+5029,40786,Calamus bajonado,taxon,9261.0,Calamus bajonado
+5029,40788,Balistes capriscus,taxon,9263.0,Balistes capriscus
+5029,40790,Harengula clupeola,taxon,9265.0,Harengula clupeola
+5029,40792,Mulloidichthys martinicus,taxon,9267.0,Mulloidichthys martinicus
+5029,40794,Scorpaena inermis,taxon,9269.0,Scorpaena inermis
+5029,40796,Haemulon parrai,taxon,9271.0,Haemulon parra
+5029,40798,Aetobatus narinari,taxon,9273.0,Aetobatus narinari
+5029,40800,Haemulon plumieri,taxon,9275.0,Haemulon plumierii
+5029,40802,Ophichtus ophis,taxon,,
+5029,40804,Ogcocephalus nasutus,taxon,9278.0,Ogcocephalus nasutus
+5029,40806,Trachinotus goodei,taxon,9280.0,Trachinotus goodei
+5029,40808,Fistularia tabacaria,taxon,9282.0,Fistularia tabacaria
+5029,40810,Scorpaena grandicornis,taxon,9284.0,Scorpaena grandicornis
+5029,40812,Mycteroperca tigris,taxon,9286.0,Mycteroperca tigris
+5029,40814,Lutjanus griseus,taxon,9288.0,Lutjanus griseus
+5029,40816,Aulostomus maculatus,taxon,9290.0,Aulostomus maculatus
+5029,40818,Epinephelus guttatus,taxon,9292.0,Epinephelus guttatus
+5029,40820,Scorpaena plumieri,taxon,9294.0,Scorpaena plumieri
+5029,40822,Hypoplectrus puella,taxon,9296.0,Hypoplectrus puella
+5029,40824,Bothus ocellatus,taxon,9298.0,Bothus ocellatus
+5029,40826,Hypoplectrus chlorurus,taxon,9300.0,Hypoplectrus chlorurus
+5029,40828,Antennarius multiocellatus,taxon,9302.0,Antennarius multiocellatus
+5029,40830,Epinephelus adscensionis,taxon,9304.0,Epinephelus adscensionis
+5029,40832,Cephalopholis cruentata,taxon,9306.0,Cephalopholis cruentata
+5029,40834,Seriola dumerili,taxon,9308.0,Seriola dumerili
+5029,40836,Lutjanus mahagoni,taxon,,
+5029,40838,Lutjanus apodus,taxon,9311.0,Lutjanus apodus
+5029,40840,Scomberomorus cavalla,taxon,9313.0,Scomberomorus cavalla
+5029,40842,Chelonia mydas,taxon,9315.0,Chelonia mydas
+5029,40844,Caretta caretta,taxon,4457.0,Caretta caretta
+5029,40846,Dermochelys coriacea,taxon,9318.0,Dermochelys coriacea
+5029,40848,Platybelone argalus,taxon,9320.0,Platybelone argala
+5029,40850,Alphestes afer,taxon,9322.0,Alphestes afer
+5029,40852,Antennarius striatus,taxon,9324.0,Antennarius striatus
+5029,40854,Sphyraena picudilla,taxon,9326.0,Sphyraena picudilla
+5029,40856,Sphyraena barracuda,taxon,9328.0,Sphyraena barracuda
+5029,40858,Heteropriacanthus cruentatus,taxon,9330.0,Heteropriacanthus cruentatus
+5029,40860,Carcharhinus longimanus,taxon,9332.0,Carcharhinus longimanus
+5029,40862,Carcharhinus perezi,taxon,9334.0,Carcharhinus perezii
+5029,40864,Rhizoprionodon porosus,taxon,9336.0,Rhizoprionodon porosus
+5029,40866,Galeocerdo cuvieri,taxon,9338.0,Galeocerdo cuvier

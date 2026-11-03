@@ -1,0 +1,107 @@
+id,name,date,description,public,all_interactions,dataset_id,geom,classification
+85,macginitie_1935_19260601_85,1926-06-01T00:00:00.000Z,Food web of the Monterey Bay,True,False,21,"{'type': 'Point', 'coordinates': [-121.809076, 36.776964]}",marine
+1525,hewatt_1937,1931-10-01T00:00:00.000Z,"Food web structure of a protected rocky intertidal community, Monterey Bay, Cabrillo point, California",True,False,141,"{'type': 'Point', 'coordinates': [-121.9, 36.6166667]}",marine
+100,mackintosh_1967_19450101_100,1945-01-01T00:00:00.000Z,A survey of antarctic biology,True,False,36,,marine
+1590,badcock_1949,1946-09-01T00:00:00.000Z,"Food web structure of the benthic fauna in tributaries of the Welsh Dee, United Kingdom",True,False,160,"{'type': 'Point', 'coordinates': [-3.481503830712, 52.989253046393]}",marine
+1021,dunbar_1953_19530101_1021,1953-01-01T00:00:00.000Z,Food web in arctic and subarctic marine zones,True,False,56,,marine
+1514,glynn_1965,1959-05-01T00:00:00.000Z,"Food web structure of an intertidal community in Monterey Bay,, Pacific Grove, California",True,False,130,,marine
+98,hiatt_1960_19601001_98,1960-10-01T00:00:00.000Z,Food web of the Marshalles reefs,True,False,34,"{'type': 'Point', 'coordinates': [168.656502, 7.916452]}",marine
+1486,paine_19630601_1486,1963-06-01T00:00:00.000Z,"The structure of a rocky intertidal food web in Torch Bay, Alaska",True,False,111,"{'type': 'Point', 'coordinates': [-136.795, 58.3211111]}",marine
+26,woodwell_1967_19670101_26,1967-01-01T00:00:00.000Z,Plant and animals interaction in Long Islands estuary,True,False,11,"{'type': 'Point', 'coordinates': [-72.9993, 40.828245]}",marine
+924,day_1967_19670101_924,1967-01-01T00:00:00.000Z,Food web of Knysna estuary,True,False,57,"{'type': 'Point', 'coordinates': [23.0625, -34.123589]}",marine
+94,rosenthal_1974_19670901_94,1967-09-01T00:00:00.000Z,Food web of the Del Mar kelp bed.,True,False,30,"{'type': 'Point', 'coordinates': [-117.266667, 32.95]}",marine
+102,knox_1970_19700101_102,1970-01-01T00:00:00.000Z,Food web of Antarctic marine ecosystems,True,False,38,,marine
+103,parin_1970_19700101_103,1970-01-01T00:00:00.000Z,Food web of tropical seas,True,False,39,,marine
+906,petipa_1970_19700101_906,1970-01-01T00:00:00.000Z,Food web of the epiplankton communities of the Black Sea,True,False,49,,marine
+907,petipa_1970_19700101_907,1970-01-01T00:00:00.000Z,Food web of the bathyplankton communities of the Black Sea,True,False,49,,marine
+95,peterson_1979_19721001_95,1972-10-01T00:00:00.000Z,Food web of the intertidal epifauna of the bay piling system and of the ocean jetty system,True,False,31,"{'type': 'Point', 'coordinates': [-74.097138, 39.759597]}",marine
+1479,menge_sutherland_1976_19730311_1479,1973-03-11T00:00:00.000Z,"Food web structure of an exposed rocky shore community, Makah Bay, Washington",True,False,105,"{'type': 'Point', 'coordinates': [-124.671648484922, 48.328556969062]}",marine
+84,van_es_1967_19750101_84,1975-01-01T00:00:00.000Z,Food web of the Ems estuary,True,False,20,"{'type': 'Point', 'coordinates': [6.966782, 53.404687]}",marine
+99,landry_1977_19770101_99,1977-01-01T00:00:00.000Z,Food web of the pelagic ecosystems,True,False,35,,marine
+890,hatanaka_1977_19770101_890,1977-01-01T00:00:00.000Z,Food web of Sendai Bay,True,False,44,,marine
+1476,menge_et_al_1986_19770101_1476,1977-01-01T00:00:00.000Z,"Structure of a tropical rocky intertidal food web, Taboguilla Island, Bay of Panama",True,False,104,"{'type': 'Point', 'coordinates': [-79.519444444444, 8.8027778]}",marine
+81,bradstreet_1982_19780101_81,1978-01-01T00:00:00.000Z,Food web of High Arctic Ice Edges,True,False,17,"{'type': 'Point', 'coordinates': [-77.890472, 72.69767]}",marine
+82,patten_1979_19780101_82,1978-01-01T00:00:00.000Z,Food web of Ross Sea pelagic ecosystem,True,False,18,"{'type': 'Point', 'coordinates': [-166.274713, -74.666783]}",marine
+93,kremer_1978_19780101_93,1978-01-01T00:00:00.000Z,Food web of Narragansett Bay,True,False,29,"{'type': 'Point', 'coordinates': [-71.353295, 41.62041]}",marine
+889,hogetsu_1979_19790101_889,1979-01-01T00:00:00.000Z,Food web of the Suruga Bay,True,False,43,,marine
+1280,shushkina_1979_19790101_1280,1979-01-01T00:00:00.000Z,Food web of tropical pelagic ecosystem,True,False,40,,marine
+922,saldanha_1980_19800101_922,1980-01-01T00:00:00.000Z,Food web of the Tage estuary,True,False,55,"{'type': 'Point', 'coordinates': [-9.017122, 38.778525]}",marine
+918,brodeur_1992_19810501_918,1981-05-01T00:00:00.000Z,Food web of coastal upwelling pelagic zone off Oregon and Washington,True,False,54,"{'type': 'Point', 'coordinates': [-124.21295, 46.265856]}",marine
+919,brodeur_1992_19820501_919,1982-05-01T00:00:00.000Z,Food web of coastal upwelling pelagic zone off Oregon and Washington,True,False,54,"{'type': 'Point', 'coordinates': [-124.21295, 46.265856]}",marine
+1474,hopkins_et_al_1993_19830101_1474,1983-01-01T00:00:00.000Z,Food web structure in the southern Scotia Sea,True,False,102,"{'type': 'Point', 'coordinates': [-39.5, -59.25]}",marine
+920,brodeur_1992_19830501_920,1983-05-01T00:00:00.000Z,Food web of coastal upwelling pelagic zone off Oregon and Washington,True,False,54,"{'type': 'Point', 'coordinates': [-124.21295, 46.265856]}",marine
+921,brodeur_1992_19840601_921,1984-06-01T00:00:00.000Z,Food web of coastal upwelling pelagic zone off Oregon and Washington,True,False,54,"{'type': 'Point', 'coordinates': [-124.21295, 46.265856]}",marine
+4515,kolpelke_2007_554,1985-09-15T00:00:00.000Z,"Food-web structure of willow-galling sawflies and their natural enemies at Leitenberg, Bayern (Germany) in 1985",True,False,6,"{'type': 'Point', 'coordinates': [11.166667, 48.06667]}",marine
+4559,kolpelke_2007_555,1985-09-15T00:00:00.000Z,"Food-web structure of willow-galling sawflies and their natural enemies at Herbertshausen, Bayern (Germany) in 1985",True,False,6,"{'type': 'Point', 'coordinates': [10.05, 49.26667]}",marine
+88,lancraft_1991_19880620_88,1988-06-20T00:00:00.000Z,Diets of common micronekton and macrozooplankton species in the Antarctic ice edge zone during winter,True,False,24,"{'type': 'Point', 'coordinates': [-41.38671, -58.230498]}",marine
+1673,mack_wright_1996,1989-01-01T00:00:00.000Z,"Bird-fruit interaction at Crater Mountain Biological Research Station, Papua New Guinea",True,False,171,"{'type': 'Point', 'coordinates': [145.0933, -6.7233]}",marine
+1462,cruz_escalona_et_al_2007_19910101_1462,1991-01-01T00:00:00.000Z,"Food web structure and diet composition based on an Ecopath model in Laguna Alvarado, western Gulf of Mexico",True,False,92,"{'type': 'Point', 'coordinates': [-95.827863, 18.774254]}",marine
+939,fautin_1993_19930101_939,1993-01-01T00:00:00.000Z,Anemonfishes-anemons intractions in the tropical Indo-Pacific ocean,True,False,64,,marine
+1064,baeta_2011_19930101_1064,1993-01-01T00:00:00.000Z,Food web of the bare sediment ecosystem of the Mondego bay estuary,True,False,74,"{'type': 'Point', 'coordinates': [-8.856905, 40.141109]}",marine
+1067,baeta_2011_19930101_1067,1993-01-01T00:00:00.000Z,Food web of the Zoostera ecosystem of the Mondego bay estuary,True,False,74,"{'type': 'Point', 'coordinates': [-8.856905, 40.141109]}",marine
+97,christian_1999_19940101_97,1994-01-01T00:00:00.000Z,Food web of a winter’s seagrass,True,False,33,,marine
+1065,baeta_2011_19990101_1065,1999-01-01T00:00:00.000Z,Food web of the bare sediment ecosystem of the Mondego bay estuary,True,False,74,"{'type': 'Point', 'coordinates': [-8.856905, 40.141109]}",marine
+1068,baeta_2011_19990101_1068,1999-01-01T00:00:00.000Z,Food web of the Zoostera ecosystem of the Mondego bay estuary,True,False,74,"{'type': 'Point', 'coordinates': [-8.856905, 40.141109]}",marine
+1567,filgueira_castro_2011,2000-02-01T00:00:00.000Z,"Food web structure of an intertidal zone in San Simon Bay, Spain",True,False,155,"{'type': 'Point', 'coordinates': [-8.61648922723, 42.331571652621]}",marine
+1066,baeta_2011_20010101_1066,2001-01-01T00:00:00.000Z,Food web of the bare sediment ecosystem of the Mondego bay estuary,True,False,74,"{'type': 'Point', 'coordinates': [-8.856905, 40.141109]}",marine
+1069,baeta_2011_20010101_1069,2001-01-01T00:00:00.000Z,Food web of the Zoostera ecosystem of the Mondego bay estuary,True,False,74,"{'type': 'Point', 'coordinates': [-8.856905, 40.141109]}",marine
+893,thompson_2004_20040101_893,2004-01-01T00:00:00.000Z,Food web of the intertidal mudflat of Company Bay,True,False,47,"{'type': 'Point', 'coordinates': [170.597852, -45.852327]}",marine
+1112,douglas_2011_20050421_1112,2005-04-21T00:00:00.000Z,Food web of the Chesapeake's Bay Eelgrass Bed in April 2005,True,False,79,"{'type': 'Point', 'coordinates': [-76.383333, 37.216667]}",marine
+89,lin_2006_20060101_89,2006-01-01T00:00:00.000Z,Dietary matrix of the Tapong Bay,True,False,25,"{'type': 'Point', 'coordinates': [120.433333, 22.45]}",marine
+1113,douglas_2011_20060519_1113,2006-05-19T00:00:00.000Z,Food web of the Chesapeake's Bay Eelgrass Bed in May 2006,True,False,79,"{'type': 'Point', 'coordinates': [-76.383333, 37.216667]}",marine
+1114,douglas_2011_20060821_1114,2006-08-21T00:00:00.000Z,Food web of the Chesapeake's Bay Eelgrass Bed in August 2006,True,False,79,"{'type': 'Point', 'coordinates': [-76.383333, 37.216667]}",marine
+930,smith_2007_20070101_930,2007-01-01T00:00:00.000Z,Food web of the Ross Sea continental shelf ecosystem,True,False,26,"{'type': 'Point', 'coordinates': [-175, -76]}",marine
+96,gontikaki_2011_20070501_96,2007-05-01T00:00:00.000Z,Food web of a sub-arctic deep-sea benthic community,True,False,32,"{'type': 'Point', 'coordinates': [-2.666583, 61.219111]}",marine
+1623,kaiser-bunbury_et_al_2014_1,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1624,kaiser-bunbury_et_al_2014_2,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1625,kaiser-bunbury_et_al_2014_3,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1626,kaiser-bunbury_et_al_2014_4,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1627,kaiser-bunbury_et_al_2014_5,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1628,kaiser-bunbury_et_al_2014_6,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1629,kaiser-bunbury_et_al_2014_7,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1630,kaiser-bunbury_et_al_2014_8,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1631,kaiser-bunbury_et_al_2014_9,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1632,kaiser-bunbury_et_al_2014_10,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1633,kaiser-bunbury_et_al_2014_11,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1634,kaiser-bunbury_et_al_2014_12,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1635,kaiser-bunbury_et_al_2014_13,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1636,kaiser-bunbury_et_al_2014_14,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1637,kaiser-bunbury_et_al_2014_15,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1638,kaiser-bunbury_et_al_2014_16,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1639,kaiser-bunbury_et_al_2014_17,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1640,kaiser-bunbury_et_al_2014_18,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1641,kaiser-bunbury_et_al_2014_19,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1642,kaiser-bunbury_et_al_2014_20,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1643,kaiser-bunbury_et_al_2014_21,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1644,kaiser-bunbury_et_al_2014_22,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1645,kaiser-bunbury_et_al_2014_23,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1646,kaiser-bunbury_et_al_2014_24,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1647,kaiser-bunbury_et_al_2014_25,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1648,kaiser-bunbury_et_al_2014_26,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1649,kaiser-bunbury_et_al_2014_27,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1650,kaiser-bunbury_et_al_2014_28,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1651,kaiser-bunbury_et_al_2014_29,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1652,kaiser-bunbury_et_al_2014_30,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1653,kaiser-bunbury_et_al_2014_31,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1654,kaiser-bunbury_et_al_2014_32,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1655,kaiser-bunbury_et_al_2014_33,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1656,kaiser-bunbury_et_al_2014_34,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1657,kaiser-bunbury_et_al_2014_35,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1658,kaiser-bunbury_et_al_2014_36,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1659,kaiser-bunbury_et_al_2014_37,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1660,kaiser-bunbury_et_al_2014_38,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1661,kaiser-bunbury_et_al_2014_39,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1662,kaiser-bunbury_et_al_2014_40,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1663,kaiser-bunbury_et_al_2014_41,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1664,kaiser-bunbury_et_al_2014_42,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1665,kaiser-bunbury_et_al_2014_43,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1666,kaiser-bunbury_et_al_2014_44,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1667,kaiser-bunbury_et_al_2014_45,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1668,kaiser-bunbury_et_al_2014_46,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1669,kaiser-bunbury_et_al_2014_47,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1670,kaiser-bunbury_et_al_2014_48,2007-09-01T00:00:00.000Z,"Plant-pollinator network on Mahé in the Seychelles, Indian Ocean",True,False,168,"{'type': 'Point', 'coordinates': [55.43333, -4.666667]}",marine
+1103,cornejo-donoso_2008_20080101_1103,2008-01-01T00:00:00.000Z,Food Web of the Antarctic Peninsula Ecosystem,True,False,78,,marine
+91,torres_2013_20130101_91,2013-01-01T00:00:00.000Z,Food web of the the Gulf of Cadiz,True,False,27,"{'type': 'Point', 'coordinates': [-7.087689, 36.970697]}",marine
+5027,roopnarine_2013_Cuba,,Data from the marine food web of Cuba,True,False,180,"{'type': 'Point', 'coordinates': [-80.323333, 21.700278]}",marine
+5028,roopnarine_2013_Jamaica,,Data from the marine food web of Jamaica,True,False,180,"{'type': 'Point', 'coordinates': [-76.829722, 17.761111]}",marine
+5029,roopnarine_2013_Cayman,,Data from the marine food web of the Cayman Islands,True,False,180,"{'type': 'Point', 'coordinates': [-81.3, 19.400556]}",marine

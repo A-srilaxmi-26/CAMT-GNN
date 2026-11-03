@@ -1,0 +1,6 @@
+network_id,network_name,network_date,description,latitude,longitude,time,sst_mean,sst_min,sst_max,sst_std,grid_cells
+2472,2005_ruzicka_2012,2005-06-01T00:00:00.000Z,Food web of the Northern California Current in 2005,,"[[-126, 42], [-124, 42], [-124, 48.34], [-126, 48.34], [-126, 42], [-126, 42]]",2005-06-01 12:00:00,13.374804902597402,11.74,14.99,0.6392949806742363,231.0
+2474,2007_ruzicka_2012,2007-06-01T00:00:00.000Z,Food web of the Northern California Current in 2007,,"[[-126, 42], [-124, 42], [-124, 48.34], [-126, 48.34], [-126, 42], [-126, 42]]",,,,,,
+5028,roopnarine_2013_Jamaica,,Data from the marine food web of Jamaica,17.761111,-76.829722,,,,,,
+5027,roopnarine_2013_Cuba,,Data from the marine food web of Cuba,21.700278,-80.323333,,,,,,
+5029,roopnarine_2013_Cayman,,Data from the marine food web of the Cayman Islands,19.400556,-81.3,,,,,,

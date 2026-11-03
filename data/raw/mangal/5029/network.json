@@ -1,0 +1,19 @@
+{
+  "id": 5029,
+  "name": "roopnarine_2013_Cayman",
+  "date": null,
+  "geom": {
+    "type": "Point",
+    "coordinates": [
+      -81.3,
+      19.400556
+    ]
+  },
+  "description": "Data from the marine food web of the Cayman Islands",
+  "public": true,
+  "all_interactions": false,
+  "created_at": "2021-11-02T17:12:02.891Z",
+  "updated_at": "2021-11-02T17:17:40.738Z",
+  "dataset_id": 180,
+  "user_id": 7
+}

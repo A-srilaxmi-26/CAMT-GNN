@@ -1,0 +1,1229 @@
+/* ============================================================
+   CAMT-GNN
+   FUTURISTIC MARINE RESEARCH INTERFACE
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+
+/* ============================================================
+   GLOBAL
+   ============================================================ */
+
+.stApp {
+    background:
+        radial-gradient(
+            circle at 85% 5%,
+            rgba(0, 190, 255, 0.11),
+            transparent 24%
+        ),
+        radial-gradient(
+            circle at 5% 95%,
+            rgba(0, 110, 255, 0.08),
+            transparent 28%
+        ),
+        linear-gradient(
+            135deg,
+            #010711 0%,
+            #020a16 45%,
+            #03101d 100%
+        );
+
+    color: #dceeff;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.block-container {
+    max-width: 1550px;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+
+/* ============================================================
+   REMOVE STREAMLIT UI NOISE
+   ============================================================ */
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header[data-testid="stHeader"] {
+    background: transparent;
+}
+
+
+/* ============================================================
+   SIDEBAR
+   ============================================================ */
+
+[data-testid="stSidebar"] {
+    background:
+        linear-gradient(
+            180deg,
+            #020914 0%,
+            #030b17 55%,
+            #020711 100%
+        );
+
+    border-right: 1px solid rgba(70, 190, 255, 0.16);
+}
+
+[data-testid="stSidebar"] * {
+    font-family: 'Inter', sans-serif;
+}
+
+[data-testid="stSidebar"] .stRadio label {
+    color: #7894ad;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+[data-testid="stSidebar"] .stRadio label:hover {
+    color: #59d5ff;
+}
+
+[data-testid="stSidebar"] .stSelectbox label {
+    color: #68869f;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+/* ============================================================
+   BRAND
+   ============================================================ */
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    padding: 8px 4px 22px;
+}
+
+.brand-icon {
+    width: 43px;
+    height: 43px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 14px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(31, 202, 255, 0.18),
+            rgba(31, 106, 255, 0.08)
+        );
+
+    border: 1px solid rgba(50, 195, 255, 0.25);
+
+    box-shadow:
+        0 0 30px rgba(0, 180, 255, 0.10);
+
+    font-size: 23px;
+}
+
+.brand-title {
+    font-size: 19px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    color: #e6f7ff;
+}
+
+.brand-subtitle {
+    font-size: 9px;
+    opacity: 0.48;
+    letter-spacing: 2px;
+    margin-top: 3px;
+}
+
+
+/* ============================================================
+   SIDEBAR LABELS
+   ============================================================ */
+
+.sidebar-label {
+    color: #47677f;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    margin-bottom: 10px;
+}
+
+
+/* ============================================================
+   SIDEBAR STATUS
+   ============================================================ */
+
+.status-heading {
+    color: #47677f;
+    font-size: 9px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.status-row {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+
+    color: #718da5;
+
+    font-size: 10px;
+    letter-spacing: 0.7px;
+
+    padding: 7px 0;
+}
+
+.status-good {
+    color: #38e5c0;
+    text-shadow: 0 0 10px rgba(56, 229, 192, 0.65);
+}
+
+.status-muted {
+    color: #52687a;
+}
+
+.sidebar-footer {
+    color: #425b70;
+    font-size: 9px;
+    line-height: 1.7;
+    letter-spacing: 0.8px;
+}
+
+.sidebar-footer span {
+    color: #2d485d;
+}
+
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    margin-bottom: 32px;
+}
+
+.eyebrow {
+    color: #48cfff;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+}
+
+.top-header h1 {
+    margin: 0;
+
+    color: #e9f7ff;
+
+    font-size: 39px;
+    font-weight: 800;
+
+    letter-spacing: -1.8px;
+    line-height: 1.1;
+}
+
+.top-header p {
+    color: #7895ae;
+
+    margin-top: 10px;
+    margin-bottom: 0;
+
+    font-size: 13px;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.network-badge,
+.header-badge {
+    border: 1px solid rgba(75, 190, 255, 0.22);
+
+    background: rgba(8, 31, 52, 0.45);
+
+    padding: 10px 14px;
+
+    border-radius: 30px;
+
+    font-size: 9px;
+    letter-spacing: 1.4px;
+
+    color: #81a8c2;
+}
+
+.header-badge {
+    color: #a7d9ec;
+}
+
+.pulse,
+.status-dot {
+    display: inline-block;
+
+    width: 7px;
+    height: 7px;
+
+    border-radius: 50%;
+
+    background: #39e6c4;
+
+    margin-right: 7px;
+
+    box-shadow:
+        0 0 10px rgba(57, 230, 196, 0.8);
+}
+
+
+/* ============================================================
+   SECTION HEADINGS
+   ============================================================ */
+
+.section-heading {
+    color: #47718d;
+
+    font-size: 9px;
+    font-weight: 700;
+
+    letter-spacing: 2.8px;
+
+    margin-top: 30px;
+    margin-bottom: 13px;
+}
+
+.section-title {
+    color: #51cfff;
+
+    font-size: 9px;
+    font-weight: 700;
+
+    letter-spacing: 2.7px;
+}
+
+
+/* ============================================================
+   HERO
+   ============================================================ */
+
+.hero-panel {
+    position: relative;
+
+    min-height: 320px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    overflow: hidden;
+
+    padding: 38px;
+
+    border-radius: 24px;
+
+    border: 1px solid rgba(70, 185, 255, 0.18);
+
+    background:
+        radial-gradient(
+            circle at 80% 50%,
+            rgba(0, 170, 255, 0.08),
+            transparent 32%
+        ),
+        linear-gradient(
+            135deg,
+            rgba(8, 31, 52, 0.78),
+            rgba(4, 17, 31, 0.88)
+        );
+
+    box-shadow:
+        0 25px 80px rgba(0, 0, 0, 0.30),
+        inset 0 1px 0 rgba(255, 255, 255, 0.025);
+}
+
+.hero-panel::before {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    height: 1px;
+
+    background:
+        linear-gradient(
+            90deg,
+            transparent,
+            rgba(46, 211, 255, 0.5),
+            transparent
+        );
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+}
+
+.hero-label {
+    color: #54d2ff;
+
+    font-size: 9px;
+    font-weight: 700;
+
+    letter-spacing: 3px;
+}
+
+.hero-content h2 {
+    color: #e6f7ff;
+
+    font-size: 35px;
+    font-weight: 800;
+
+    line-height: 1.12;
+
+    letter-spacing: -1.2px;
+
+    margin: 13px 0;
+}
+
+.hero-content p {
+    max-width: 610px;
+
+    color: #7897ae;
+
+    font-size: 13px;
+    line-height: 1.7;
+}
+
+.hero-tags {
+    display: flex;
+    gap: 8px;
+    margin-top: 25px;
+}
+
+.hero-tags span {
+    padding: 7px 10px;
+
+    border-radius: 20px;
+
+    border: 1px solid rgba(65, 190, 255, 0.16);
+
+    background: rgba(20, 100, 145, 0.08);
+
+    color: #5986a1;
+
+    font-size: 8px;
+    letter-spacing: 1px;
+}
+
+
+/* ============================================================
+   HERO ORBIT
+   ============================================================ */
+
+.hero-orbit {
+    position: relative;
+
+    width: 280px;
+    height: 280px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-right: 25px;
+}
+
+.orbit-ring {
+    position: absolute;
+
+    border-radius: 50%;
+
+    border: 1px solid rgba(54, 192, 255, 0.18);
+}
+
+.ring-one {
+    width: 160px;
+    height: 160px;
+}
+
+.ring-two {
+    width: 220px;
+    height: 220px;
+}
+
+.ring-three {
+    width: 275px;
+    height: 275px;
+
+    border-style: dashed;
+
+    opacity: 0.35;
+}
+
+.core {
+    position: relative;
+    z-index: 5;
+
+    width: 72px;
+    height: 72px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(32, 193, 255, 0.20),
+            rgba(0, 70, 120, 0.05)
+        );
+
+    border: 1px solid rgba(76, 207, 255, 0.35);
+
+    font-size: 35px;
+
+    box-shadow:
+        0 0 45px rgba(0, 183, 255, 0.28);
+}
+
+.orbit-node {
+    position: absolute;
+
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background: rgba(8, 34, 53, 0.9);
+
+    border: 1px solid rgba(72, 203, 255, 0.35);
+
+    font-size: 12px;
+
+    box-shadow:
+        0 0 20px rgba(0, 173, 255, 0.15);
+}
+
+.node-a {
+    top: 20px;
+    right: 55px;
+}
+
+.node-b {
+    bottom: 42px;
+    left: 32px;
+}
+
+.node-c {
+    top: 112px;
+    right: 0;
+}
+
+
+/* ============================================================
+   METRIC CARDS
+   ============================================================ */
+
+.metric-card {
+    position: relative;
+
+    min-height: 140px;
+
+    padding: 22px;
+
+    border-radius: 18px;
+
+    border: 1px solid rgba(65, 175, 245, 0.14);
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(8, 31, 51, 0.82),
+            rgba(4, 19, 34, 0.76)
+        );
+
+    transition:
+        transform 0.2s ease,
+        border-color 0.2s ease;
+
+    box-shadow:
+        0 14px 45px rgba(0, 0, 0, 0.18);
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+
+    border-color:
+        rgba(65, 205, 255, 0.30);
+}
+
+.metric-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.metric-label {
+    color: #5e7f98;
+
+    font-size: 9px;
+    font-weight: 700;
+
+    letter-spacing: 2px;
+}
+
+.metric-dot {
+    width: 5px;
+    height: 5px;
+
+    border-radius: 50%;
+
+    background: #36d8c0;
+
+    box-shadow:
+        0 0 10px rgba(54, 216, 192, 0.7);
+}
+
+.metric-value {
+    color: #e4f5ff;
+
+    font-size: 29px;
+    font-weight: 800;
+
+    letter-spacing: -1px;
+
+    margin-top: 17px;
+}
+
+.metric-note {
+    color: #506e86;
+
+    font-size: 9px;
+
+    margin-top: 8px;
+}
+
+
+/* ============================================================
+   PIPELINE
+   ============================================================ */
+
+.pipeline {
+    display: flex;
+    align-items: center;
+
+    padding: 24px;
+
+    border-radius: 18px;
+
+    border: 1px solid rgba(60, 170, 235, 0.12);
+
+    background: rgba(3, 14, 27, 0.72);
+}
+
+.pipeline-node {
+    text-align: center;
+    min-width: 125px;
+}
+
+.pipeline-node span {
+    display: block;
+
+    color: #36566d;
+
+    font-size: 8px;
+
+    margin-bottom: 7px;
+}
+
+.pipeline-node b {
+    display: block;
+
+    color: #64849d;
+
+    font-size: 10px;
+
+    letter-spacing: 1px;
+}
+
+.pipeline-node small {
+    display: block;
+
+    color: #415e73;
+
+    font-size: 8px;
+
+    margin-top: 5px;
+}
+
+.pipeline-node.active b {
+    color: #50cdfc;
+}
+
+.pipeline-line {
+    flex: 1;
+
+    height: 1px;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(50, 170, 225, 0.12),
+            rgba(50, 200, 255, 0.38),
+            rgba(50, 170, 225, 0.12)
+        );
+
+    margin: 0 12px;
+}
+
+
+/* ============================================================
+   ANALYSIS CARDS
+   ============================================================ */
+
+.analysis-card {
+    padding: 23px;
+
+    min-height: 115px;
+
+    border-radius: 17px;
+
+    background: rgba(5, 22, 39, 0.78);
+
+    border: 1px solid rgba(60, 170, 230, 0.13);
+}
+
+.analysis-card span {
+    display: block;
+
+    color: #53738c;
+
+    font-size: 9px;
+
+    letter-spacing: 1.8px;
+}
+
+.analysis-card strong {
+    display: block;
+
+    color: #dff5ff;
+
+    font-size: 27px;
+
+    margin-top: 12px;
+}
+
+.analysis-card small {
+    color: #46657b;
+
+    font-size: 9px;
+}
+
+
+/* ============================================================
+   PAGE DESCRIPTION
+   ============================================================ */
+
+.page-description {
+    color: #708da4;
+
+    font-size: 12px;
+
+    line-height: 1.7;
+
+    margin-bottom: 20px;
+}
+
+
+/* ============================================================
+   PANELS
+   ============================================================ */
+
+.section-panel,
+.prediction-panel {
+    border: 1px solid rgba(70, 180, 255, 0.15);
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(7, 25, 43, 0.78),
+            rgba(3, 15, 28, 0.72)
+        );
+
+    border-radius: 21px;
+
+    padding: 30px;
+
+    margin-bottom: 25px;
+
+    box-shadow:
+        0 20px 65px rgba(0, 0, 0, 0.22);
+}
+
+.section-panel h2,
+.prediction-panel h2 {
+    color: #dff4ff;
+
+    font-size: 24px;
+
+    margin: 8px 0 10px;
+}
+
+
+/* ============================================================
+   CLIMATE
+   ============================================================ */
+
+.climate-card {
+    min-height: 145px;
+
+    padding: 22px;
+
+    border-radius: 18px;
+
+    border: 1px solid rgba(60, 180, 245, 0.14);
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(8, 29, 48, 0.82),
+            rgba(3, 17, 30, 0.76)
+        );
+}
+
+.climate-value {
+    color: #e2f6ff;
+
+    font-size: 30px;
+
+    font-weight: 800;
+
+    margin-top: 16px;
+}
+
+.unit {
+    color: #63839a;
+
+    font-size: 12px;
+
+    font-weight: 500;
+}
+
+
+/* ============================================================
+   SPECIES PROFILE
+   ============================================================ */
+
+.species-profile {
+    display: flex;
+    align-items: center;
+
+    gap: 20px;
+
+    padding: 24px;
+
+    margin-top: 20px;
+
+    border-radius: 18px;
+
+    background: rgba(4, 19, 34, 0.75);
+
+    border: 1px solid rgba(70, 180, 245, 0.13);
+}
+
+.species-symbol {
+    width: 64px;
+    height: 64px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 18px;
+
+    background: rgba(35, 190, 245, 0.09);
+
+    border: 1px solid rgba(70, 195, 255, 0.20);
+
+    font-size: 28px;
+}
+
+.species-label {
+    color: #4e7893;
+
+    font-size: 8px;
+
+    letter-spacing: 2px;
+}
+
+.species-name {
+    color: #dff5ff;
+
+    font-size: 21px;
+
+    font-weight: 700;
+
+    margin-top: 5px;
+}
+
+.species-id {
+    color: #506f86;
+
+    font-size: 9px;
+
+    margin-top: 6px;
+}
+
+
+/* ============================================================
+   EMPTY / STATUS
+   ============================================================ */
+
+.empty-visual {
+    min-height: 280px;
+
+    margin-top: 20px;
+
+    border: 1px dashed rgba(80, 180, 255, 0.16);
+
+    border-radius: 18px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background: rgba(2, 12, 25, 0.55);
+
+    text-align: center;
+}
+
+.empty-icon {
+    font-size: 44px;
+
+    margin-bottom: 12px;
+
+    opacity: 0.65;
+}
+
+.empty-title {
+    color: #7998ae;
+
+    font-size: 11px;
+
+    letter-spacing: 3px;
+
+    font-weight: 700;
+}
+
+.empty-text {
+    max-width: 530px;
+
+    color: #4f6b80;
+
+    font-size: 11px;
+
+    line-height: 1.7;
+
+    margin-top: 10px;
+}
+
+
+/* ============================================================
+   PREDICTIONS
+   ============================================================ */
+
+.prediction-status {
+    text-align: center;
+
+    padding: 70px 20px;
+}
+
+.large-status {
+    color: #65d4fa;
+
+    font-size: 24px;
+
+    letter-spacing: 3px;
+
+    font-weight: 800;
+}
+
+.prediction-status p {
+    color: #607d94;
+
+    max-width: 600px;
+
+    margin: 15px auto;
+
+    font-size: 12px;
+}
+
+
+/* ============================================================
+   SCIENTIFIC NOTE
+   ============================================================ */
+
+.scientific-note {
+    padding: 16px 18px;
+
+    margin-top: 20px;
+
+    border-left: 2px solid #35c7ef;
+
+    background: rgba(25, 120, 155, 0.07);
+
+    color: #6f8da3;
+
+    font-size: 11px;
+
+    line-height: 1.7;
+
+    border-radius: 0 10px 10px 0;
+}
+
+.scientific-note strong {
+    color: #86b7cf;
+}
+
+
+/* ============================================================
+   SOURCE CARDS
+   ============================================================ */
+
+.source-card {
+    min-height: 260px;
+
+    padding: 25px;
+
+    border-radius: 19px;
+
+    border: 1px solid rgba(65, 180, 245, 0.14);
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(7, 27, 46, 0.82),
+            rgba(3, 16, 29, 0.78)
+        );
+
+    transition:
+        transform 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.source-card:hover {
+    transform: translateY(-3px);
+
+    border-color:
+        rgba(65, 200, 255, 0.30);
+}
+
+.source-icon {
+    width: 42px;
+    height: 42px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 13px;
+
+    background: rgba(35, 190, 245, 0.08);
+
+    border: 1px solid rgba(60, 200, 255, 0.18);
+
+    color: #45d0ff;
+
+    margin-bottom: 20px;
+}
+
+.source-name {
+    color: #51cffb;
+
+    font-size: 10px;
+
+    letter-spacing: 2px;
+
+    font-weight: 700;
+}
+
+.source-title {
+    color: #d9effa;
+
+    font-size: 17px;
+
+    font-weight: 700;
+
+    margin-top: 10px;
+}
+
+.source-description {
+    color: #607d94;
+
+    font-size: 10px;
+
+    line-height: 1.7;
+
+    margin-top: 13px;
+}
+
+.source-status {
+    color: #3d8ba8;
+
+    font-size: 9px;
+
+    margin-top: 25px;
+
+    letter-spacing: 0.8px;
+}
+
+
+/* ============================================================
+   STREAMLIT INPUTS
+   ============================================================ */
+
+.stSelectbox > div > div,
+.stTextInput > div > div {
+    background: rgba(5, 22, 38, 0.85) !important;
+
+    border: 1px solid rgba(70, 180, 245, 0.15) !important;
+
+    color: #cfeaff !important;
+
+    border-radius: 11px !important;
+}
+
+.stSelectbox label,
+.stTextInput label,
+.stSlider label {
+    color: #64839a !important;
+
+    font-size: 10px !important;
+
+    letter-spacing: 1px !important;
+}
+
+
+/* ============================================================
+   DATAFRAME
+   ============================================================ */
+
+[data-testid="stDataFrame"] {
+    border: 1px solid rgba(60, 180, 245, 0.12);
+
+    border-radius: 13px;
+
+    overflow: hidden;
+}
+
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+
+.stButton button {
+    border-radius: 10px;
+
+    border: 1px solid rgba(65, 195, 255, 0.20);
+
+    background: rgba(9, 35, 55, 0.8);
+
+    color: #8ccde6;
+
+    transition: all 0.2s ease;
+}
+
+.stButton button:hover {
+    border-color: rgba(65, 210, 255, 0.45);
+
+    color: #dff8ff;
+
+    box-shadow:
+        0 0 20px rgba(30, 180, 255, 0.10);
+}
+
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+.footer {
+    text-align: center;
+
+    margin-top: 55px;
+
+    padding-top: 22px;
+
+    border-top: 1px solid rgba(60, 170, 225, 0.08);
+
+    color: #3f596d;
+
+    font-size: 9px;
+
+    letter-spacing: 1.5px;
+}
+
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 900px) {
+
+    .top-header {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .header-right {
+        flex-wrap: wrap;
+    }
+
+    .hero-panel {
+        flex-direction: column;
+
+        align-items: flex-start;
+    }
+
+    .hero-orbit {
+        align-self: center;
+
+        margin-top: 20px;
+    }
+
+    .pipeline {
+        overflow-x: auto;
+    }
+
+    .pipeline-line {
+        min-width: 35px;
+    }
+}

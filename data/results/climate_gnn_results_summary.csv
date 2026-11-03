@@ -1,0 +1,2 @@
+network_id,model,roc_auc_mean,roc_auc_std,average_precision_mean,average_precision_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std
+2472,ClimateAwareGNN,0.89628,0.015035192050652397,0.8708600000000001,0.017549301980420734,0.81938,0.028377931566624104,0.8289200000000001,0.059642577073764975,0.82276,0.02852100979979495

@@ -1,0 +1,19 @@
+{
+  "id": 5027,
+  "name": "roopnarine_2013_Cuba",
+  "date": null,
+  "geom": {
+    "type": "Point",
+    "coordinates": [
+      -80.323333,
+      21.700278
+    ]
+  },
+  "description": "Data from the marine food web of Cuba",
+  "public": true,
+  "all_interactions": false,
+  "created_at": "2021-11-02T17:12:02.723Z",
+  "updated_at": "2021-11-02T17:17:40.574Z",
+  "dataset_id": 180,
+  "user_id": 7
+}

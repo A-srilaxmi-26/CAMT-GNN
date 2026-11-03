@@ -1,0 +1,5633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="value" attr.type="double" />
+  <key id="d2" for="edge" attr.name="interaction_type" attr.type="string" />
+  <key id="d1" for="node" attr.name="taxonomy_id" attr.type="double" />
+  <key id="d0" for="node" attr.name="species_name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="32148">
+      <data key="d0">Z1ai: copepods (large, &gt;= 0.025mg C)</data>
+      <data key="d1">4441.0</data>
+    </node>
+    <node id="32149">
+      <data key="d0">Z1aii: copepods (small, &lt; 0.025mg C)</data>
+      <data key="d1">4441.0</data>
+    </node>
+    <node id="32151">
+      <data key="d0">Z1d: pteropods</data>
+      <data key="d1">5293.0</data>
+    </node>
+    <node id="32152">
+      <data key="d0">Z2a: pelagic amphipods</data>
+      <data key="d1">4436.0</data>
+    </node>
+    <node id="32155">
+      <data key="d0">Z2e: small jellyfish</data>
+      <data key="d1">5291.0</data>
+    </node>
+    <node id="32156">
+      <data key="d0">Z2f: large jellyfish</data>
+      <data key="d1">5291.0</data>
+    </node>
+    <node id="32157">
+      <data key="d0">Z3a: E. pacifica (adult and juveniles)</data>
+      <data key="d1">5296.0</data>
+    </node>
+    <node id="32158">
+      <data key="d0">Z3b: T. spinifera (adult and juveniles)</data>
+      <data key="d1">5297.0</data>
+    </node>
+    <node id="32159">
+      <data key="d0">C: cephalopod aggregate</data>
+      <data key="d1">4603.0</data>
+    </node>
+    <node id="32160">
+      <data key="d0">PlnkF1a: smelt aggregate</data>
+      <data key="d1">5298.0</data>
+    </node>
+    <node id="32161">
+      <data key="d0">PlnkF1b: shad</data>
+      <data key="d1">5299.0</data>
+    </node>
+    <node id="32162">
+      <data key="d0">PlnkF1c: sardine</data>
+      <data key="d1">4371.0</data>
+    </node>
+    <node id="32163">
+      <data key="d0">PlnkF1d: herring</data>
+      <data key="d1">4371.0</data>
+    </node>
+    <node id="32164">
+      <data key="d0">PlnkF1e: anchovy</data>
+      <data key="d1">4469.0</data>
+    </node>
+    <node id="32165">
+      <data key="d0">PlnkF1f: saury</data>
+      <data key="d1">5305.0</data>
+    </node>
+    <node id="32166">
+      <data key="d0">PlnkF2a: coho yearling</data>
+      <data key="d1">4882.0</data>
+    </node>
+    <node id="32167">
+      <data key="d0">PlnkF2bi: Chinook subyearling</data>
+      <data key="d1">4883.0</data>
+    </node>
+    <node id="32168">
+      <data key="d0">PlnkF2bii: Chinook yearling</data>
+      <data key="d1">4883.0</data>
+    </node>
+    <node id="32169">
+      <data key="d0">PlnkF2c: other juvenile salmon</data>
+      <data key="d1">5300.0</data>
+    </node>
+    <node id="32171">
+      <data key="d0">PlnkF4: planktivorous rockfish</data>
+      <data key="d1">4957.0</data>
+    </node>
+    <node id="32172">
+      <data key="d0">PiscF1a: coho</data>
+      <data key="d1">4882.0</data>
+    </node>
+    <node id="32173">
+      <data key="d0">PiscF1b: Chinook</data>
+      <data key="d1">4883.0</data>
+    </node>
+    <node id="32175">
+      <data key="d0">PiscF2: shark aggregate</data>
+      <data key="d1">4458.0</data>
+    </node>
+    <node id="32176">
+      <data key="d0">PiscF3a: jack mackerel</data>
+      <data key="d1">5308.0</data>
+    </node>
+    <node id="32177">
+      <data key="d0">PiscF3b: Pacific mackerel</data>
+      <data key="d1">4637.0</data>
+    </node>
+    <node id="32178">
+      <data key="d0">PiscF4: piscivorous rockfish</data>
+      <data key="d1">4957.0</data>
+    </node>
+    <node id="32179">
+      <data key="d0">PiscF5: dogfish aggregate</data>
+      <data key="d1">5309.0</data>
+    </node>
+    <node id="32180">
+      <data key="d0">PiscF6: hake</data>
+      <data key="d1">5306.0</data>
+    </node>
+    <node id="32181">
+      <data key="d0">PiscF7: sablefish</data>
+      <data key="d1">4885.0</data>
+    </node>
+    <node id="32182">
+      <data key="d0">PiscF8: Hexagrammidae (lingcod, greenling)</data>
+      <data key="d1">5310.0</data>
+    </node>
+    <node id="32183">
+      <data key="d0">PiscF9: flatfish (water-column feeders)</data>
+      <data key="d1">4717.0</data>
+    </node>
+    <node id="32184">
+      <data key="d0">BnthF1: skates and rays</data>
+      <data key="d1">4283.0</data>
+    </node>
+    <node id="32186">
+      <data key="d0">BnthF3: benthivorous rockfish</data>
+      <data key="d1">4957.0</data>
+    </node>
+    <node id="32187">
+      <data key="d0">BnthF4: Gadidae (cod, haddock, pollock)</data>
+      <data key="d1">5311.0</data>
+    </node>
+    <node id="32188">
+      <data key="d0">BnthF5: flatfish (benthic feeders)</data>
+      <data key="d1">4717.0</data>
+    </node>
+    <node id="32189">
+      <data key="d0">BnthF6: flatfish (small)</data>
+      <data key="d1">4717.0</data>
+    </node>
+    <node id="32190">
+      <data key="d0">BnthF7: grenadier</data>
+      <data key="d1">5316.0</data>
+    </node>
+    <node id="32191">
+      <data key="d0">JuvF1: juvenile rockfish</data>
+      <data key="d1">4957.0</data>
+    </node>
+    <node id="32194">
+      <data key="d0">DepB2a: Pandalus spp.</data>
+      <data key="d1">5302.0</data>
+    </node>
+    <node id="32196">
+      <data key="d0">DepB3: mysids</data>
+      <data key="d1">4903.0</data>
+    </node>
+    <node id="32197">
+      <data key="d0">DepB4: echinoderms</data>
+      <data key="d1">5312.0</data>
+    </node>
+    <node id="32198">
+      <data key="d0">DepB5: benthic amphipods, isopods, and cumaceans</data>
+      <data key="d1">4551.0</data>
+    </node>
+    <node id="32199">
+      <data key="d0">SspB2: bivalves</data>
+      <data key="d1">3781.0</data>
+    </node>
+    <node id="32201">
+      <data key="d0">CrnB1: Dungeness crab</data>
+      <data key="d1">5313.0</data>
+    </node>
+    <node id="32202">
+      <data key="d0">CrnB2: Tanner crab</data>
+      <data key="d1">5314.0</data>
+    </node>
+    <node id="32204">
+      <data key="d0">SB1: sooty shearwaters</data>
+      <data key="d1">5320.0</data>
+    </node>
+    <node id="32205">
+      <data key="d0">SB2: common murre</data>
+      <data key="d1">5317.0</data>
+    </node>
+    <node id="32206">
+      <data key="d0">SB3: gulls and terns</data>
+      <data key="d1">3789.0</data>
+    </node>
+    <node id="32207">
+      <data key="d0">SB4: alcids</data>
+      <data key="d1">5318.0</data>
+    </node>
+    <node id="32208">
+      <data key="d0">SB5: large pelagic seabirds</data>
+      <data key="d1">4337.0</data>
+    </node>
+    <node id="32209">
+      <data key="d0">SB6: other pelagic seabirds</data>
+      <data key="d1">4337.0</data>
+    </node>
+    <node id="32211">
+      <data key="d0">SB8: storm-petrels</data>
+      <data key="d1">4452.0</data>
+    </node>
+    <node id="32212">
+      <data key="d0">PlnkMM1: gray whales</data>
+      <data key="d1">5321.0</data>
+    </node>
+    <node id="32213">
+      <data key="d0">PlnkMM2: baleen whales</data>
+      <data key="d1">5322.0</data>
+    </node>
+    <node id="32214">
+      <data key="d0">PiscMM1: small pinnipeds</data>
+      <data key="d1">4307.0</data>
+    </node>
+    <node id="32215">
+      <data key="d0">PiscMM2: large pinnipeds</data>
+      <data key="d1">4307.0</data>
+    </node>
+    <node id="32216">
+      <data key="d0">PiscMM4: toothed whales</data>
+      <data key="d1">4585.0</data>
+    </node>
+    <node id="32224">
+      <data key="d0">Import</data>
+      <data key="d1">4477.0</data>
+    </node>
+    <node id="32221">
+      <data key="d0">Z2d: fish eggs</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32222">
+      <data key="d0">D3: benthic detritus</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32147">
+      <data key="d0">MZ: micro-zooplankton</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32170">
+      <data key="d0">PlnkF3: mesopelagic fish aggregate</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32185">
+      <data key="d0">BnthF2: misc. small benthic fishes</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32193">
+      <data key="d0">DepB1: infauna</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32217">
+      <data key="d0">P1: large phytoplankton</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32218">
+      <data key="d0">P2: small phytoplankton</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32219">
+      <data key="d0">D1: pelagic detritus</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32150">
+      <data key="d0">Z1b: small invertebrate larvae</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32220">
+      <data key="d0">Z1c: invertebrate eggs</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32153">
+      <data key="d0">Z2b: pelagic shrimp (Sergestidae, Panaeidae)</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32154">
+      <data key="d0">Z2c: other macro-zooplankton</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32192">
+      <data key="d0">JuvF2: juvenile fish (other)</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32195">
+      <data key="d0">DepB2b: other epibenthic shrimp (Caridea)</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32200">
+      <data key="d0">SspB3: misc. epifauna (suspension feeders)</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32203">
+      <data key="d0">CrnB3: misc. epifauna (carnivorous)</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32174">
+      <data key="d0">PiscF1c: other salmon aggregate</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32223">
+      <data key="d0">D2: fishery offal</data>
+      <data key="d1">nan</data>
+    </node>
+    <node id="32210">
+      <data key="d0">SB7: coastal seabirds (divers)</data>
+      <data key="d1">nan</data>
+    </node>
+    <edge source="32148" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.4638</data>
+    </edge>
+    <edge source="32148" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2362</data>
+    </edge>
+    <edge source="32148" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.3</data>
+    </edge>
+    <edge source="32149" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.3975</data>
+    </edge>
+    <edge source="32149" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2025</data>
+    </edge>
+    <edge source="32149" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.4</data>
+    </edge>
+    <edge source="32151" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.3644</data>
+    </edge>
+    <edge source="32151" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.1856</data>
+    </edge>
+    <edge source="32151" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32151" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0371</data>
+    </edge>
+    <edge source="32151" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.1617</data>
+    </edge>
+    <edge source="32151" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0812</data>
+    </edge>
+    <edge source="32151" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32152" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2738</data>
+    </edge>
+    <edge source="32152" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.1395</data>
+    </edge>
+    <edge source="32152" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.2584</data>
+    </edge>
+    <edge source="32152" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0377</data>
+    </edge>
+    <edge source="32152" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.1642</data>
+    </edge>
+    <edge source="32152" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0825</data>
+    </edge>
+    <edge source="32152" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0065</data>
+    </edge>
+    <edge source="32152" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32152" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0207</data>
+    </edge>
+    <edge source="32152" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32152" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32155" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.3479</data>
+    </edge>
+    <edge source="32155" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.1771</data>
+    </edge>
+    <edge source="32155" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.25</data>
+    </edge>
+    <edge source="32155" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0152</data>
+    </edge>
+    <edge source="32155" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0664</data>
+    </edge>
+    <edge source="32155" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0334</data>
+    </edge>
+    <edge source="32155" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32155" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32156" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.068</data>
+    </edge>
+    <edge source="32156" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.2963</data>
+    </edge>
+    <edge source="32156" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.1489</data>
+    </edge>
+    <edge source="32156" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0032</data>
+    </edge>
+    <edge source="32156" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0275</data>
+    </edge>
+    <edge source="32156" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0165</data>
+    </edge>
+    <edge source="32156" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.2046</data>
+    </edge>
+    <edge source="32156" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.1997</data>
+    </edge>
+    <edge source="32156" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0353</data>
+    </edge>
+    <edge source="32157" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.4042</data>
+    </edge>
+    <edge source="32157" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2058</data>
+    </edge>
+    <edge source="32157" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.3</data>
+    </edge>
+    <edge source="32157" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0086</data>
+    </edge>
+    <edge source="32157" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0375</data>
+    </edge>
+    <edge source="32157" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0189</data>
+    </edge>
+    <edge source="32157" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32157" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32158" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.3048</data>
+    </edge>
+    <edge source="32158" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.1552</data>
+    </edge>
+    <edge source="32158" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.3</data>
+    </edge>
+    <edge source="32158" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0086</data>
+    </edge>
+    <edge source="32158" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0375</data>
+    </edge>
+    <edge source="32158" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0189</data>
+    </edge>
+    <edge source="32158" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32158" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32158" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32159" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32159" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.1745</data>
+    </edge>
+    <edge source="32159" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0877</data>
+    </edge>
+    <edge source="32159" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0078</data>
+    </edge>
+    <edge source="32159" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0669</data>
+    </edge>
+    <edge source="32159" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0185</data>
+    </edge>
+    <edge source="32159" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0401</data>
+    </edge>
+    <edge source="32159" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.3209</data>
+    </edge>
+    <edge source="32159" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1291</data>
+    </edge>
+    <edge source="32159" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32159" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0062</data>
+    </edge>
+    <edge source="32159" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32159" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0168</data>
+    </edge>
+    <edge source="32159" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0119</data>
+    </edge>
+    <edge source="32159" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0148</data>
+    </edge>
+    <edge source="32159" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32159" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32159" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32159" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32159" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32159" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.008</data>
+    </edge>
+    <edge source="32159" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32159" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0076</data>
+    </edge>
+    <edge source="32159" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0229</data>
+    </edge>
+    <edge source="32160" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0286</data>
+    </edge>
+    <edge source="32160" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.1245</data>
+    </edge>
+    <edge source="32160" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0625</data>
+    </edge>
+    <edge source="32160" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.023</data>
+    </edge>
+    <edge source="32160" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.1969</data>
+    </edge>
+    <edge source="32160" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.1021</data>
+    </edge>
+    <edge source="32160" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.1181</data>
+    </edge>
+    <edge source="32160" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0358</data>
+    </edge>
+    <edge source="32160" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.2103</data>
+    </edge>
+    <edge source="32160" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0846</data>
+    </edge>
+    <edge source="32160" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0113</data>
+    </edge>
+    <edge source="32160" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32160" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32161" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0574</data>
+    </edge>
+    <edge source="32161" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.25</data>
+    </edge>
+    <edge source="32161" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.1256</data>
+    </edge>
+    <edge source="32161" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32161" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0058</data>
+    </edge>
+    <edge source="32161" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0035</data>
+    </edge>
+    <edge source="32161" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.3922</data>
+    </edge>
+    <edge source="32161" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1578</data>
+    </edge>
+    <edge source="32161" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.007</data>
+    </edge>
+    <edge source="32162" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2918</data>
+    </edge>
+    <edge source="32162" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32162" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0267</data>
+    </edge>
+    <edge source="32162" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.1163</data>
+    </edge>
+    <edge source="32162" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0584</data>
+    </edge>
+    <edge source="32162" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32162" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0122</data>
+    </edge>
+    <edge source="32162" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0604</data>
+    </edge>
+    <edge source="32162" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0073</data>
+    </edge>
+    <edge source="32162" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0017</data>
+    </edge>
+    <edge source="32162" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.287</data>
+    </edge>
+    <edge source="32162" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1155</data>
+    </edge>
+    <edge source="32162" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32162" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0091</data>
+    </edge>
+    <edge source="32162" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32163" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.24</data>
+    </edge>
+    <edge source="32163" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32163" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0068</data>
+    </edge>
+    <edge source="32163" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0294</data>
+    </edge>
+    <edge source="32163" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0148</data>
+    </edge>
+    <edge source="32163" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0049</data>
+    </edge>
+    <edge source="32163" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0419</data>
+    </edge>
+    <edge source="32163" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.032</data>
+    </edge>
+    <edge source="32163" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0252</data>
+    </edge>
+    <edge source="32163" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.4136</data>
+    </edge>
+    <edge source="32163" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1664</data>
+    </edge>
+    <edge source="32163" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32163" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32163" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32164" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.363</data>
+    </edge>
+    <edge source="32164" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0113</data>
+    </edge>
+    <edge source="32164" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0075</data>
+    </edge>
+    <edge source="32164" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0328</data>
+    </edge>
+    <edge source="32164" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0165</data>
+    </edge>
+    <edge source="32164" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32164" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0178</data>
+    </edge>
+    <edge source="32164" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0284</data>
+    </edge>
+    <edge source="32164" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0107</data>
+    </edge>
+    <edge source="32164" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0358</data>
+    </edge>
+    <edge source="32164" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.3235</data>
+    </edge>
+    <edge source="32164" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1302</data>
+    </edge>
+    <edge source="32164" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0023</data>
+    </edge>
+    <edge source="32164" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32164" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0057</data>
+    </edge>
+    <edge source="32164" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0113</data>
+    </edge>
+    <edge source="32165" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0144</data>
+    </edge>
+    <edge source="32165" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0627</data>
+    </edge>
+    <edge source="32165" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0315</data>
+    </edge>
+    <edge source="32165" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0074</data>
+    </edge>
+    <edge source="32165" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0633</data>
+    </edge>
+    <edge source="32165" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0543</data>
+    </edge>
+    <edge source="32165" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.038</data>
+    </edge>
+    <edge source="32165" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0229</data>
+    </edge>
+    <edge source="32165" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1935</data>
+    </edge>
+    <edge source="32165" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0779</data>
+    </edge>
+    <edge source="32165" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.1194</data>
+    </edge>
+    <edge source="32165" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.2389</data>
+    </edge>
+    <edge source="32165" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0217</data>
+    </edge>
+    <edge source="32165" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0543</data>
+    </edge>
+    <edge source="32166" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32166" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32166" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32166" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32166" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32166" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32166" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32166" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0288</data>
+    </edge>
+    <edge source="32166" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0358</data>
+    </edge>
+    <edge source="32166" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32166" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32166" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32166" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.362</data>
+    </edge>
+    <edge source="32166" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.394</data>
+    </edge>
+    <edge source="32166" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32167" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32167" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32167" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.017</data>
+    </edge>
+    <edge source="32167" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32167" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.117</data>
+    </edge>
+    <edge source="32167" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.078</data>
+    </edge>
+    <edge source="32167" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32167" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0142</data>
+    </edge>
+    <edge source="32167" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0274</data>
+    </edge>
+    <edge source="32167" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.034</data>
+    </edge>
+    <edge source="32167" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32167" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32167" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32167" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32167" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.043</data>
+    </edge>
+    <edge source="32167" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.541</data>
+    </edge>
+    <edge source="32167" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32167" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32167" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.014</data>
+    </edge>
+    <edge source="32167" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.06</data>
+    </edge>
+    <edge source="32168" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32168" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32168" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.008</data>
+    </edge>
+    <edge source="32168" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.1022</data>
+    </edge>
+    <edge source="32168" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32168" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32168" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0641</data>
+    </edge>
+    <edge source="32168" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0133</data>
+    </edge>
+    <edge source="32168" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0256</data>
+    </edge>
+    <edge source="32168" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0319</data>
+    </edge>
+    <edge source="32168" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32168" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32168" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32168" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.016</data>
+    </edge>
+    <edge source="32168" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.3916</data>
+    </edge>
+    <edge source="32168" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.2915</data>
+    </edge>
+    <edge source="32168" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32168" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0391</data>
+    </edge>
+    <edge source="32168" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32169" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.1016</data>
+    </edge>
+    <edge source="32169" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0339</data>
+    </edge>
+    <edge source="32169" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.07</data>
+    </edge>
+    <edge source="32169" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0113</data>
+    </edge>
+    <edge source="32169" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.1039</data>
+    </edge>
+    <edge source="32169" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0345</data>
+    </edge>
+    <edge source="32169" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1694</data>
+    </edge>
+    <edge source="32169" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1423</data>
+    </edge>
+    <edge source="32169" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0033</data>
+    </edge>
+    <edge source="32169" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0064</data>
+    </edge>
+    <edge source="32169" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0079</data>
+    </edge>
+    <edge source="32169" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32169" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32169" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32169" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0034</data>
+    </edge>
+    <edge source="32169" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.1028</data>
+    </edge>
+    <edge source="32169" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32169" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0169</data>
+    </edge>
+    <edge source="32169" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32169" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.0937</data>
+    </edge>
+    <edge source="32169" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32169" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0949</data>
+    </edge>
+    <edge source="32171" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32171" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0174</data>
+    </edge>
+    <edge source="32171" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0088</data>
+    </edge>
+    <edge source="32171" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32171" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.2218</data>
+    </edge>
+    <edge source="32171" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.131</data>
+    </edge>
+    <edge source="32171" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32171" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.2681</data>
+    </edge>
+    <edge source="32171" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1079</data>
+    </edge>
+    <edge source="32171" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0151</data>
+    </edge>
+    <edge source="32171" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.0504</data>
+    </edge>
+    <edge source="32171" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32171" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0403</data>
+    </edge>
+    <edge source="32171" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0202</data>
+    </edge>
+    <edge source="32171" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0202</data>
+    </edge>
+    <edge source="32171" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0202</data>
+    </edge>
+    <edge source="32171" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32171" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.0605</data>
+    </edge>
+    <edge source="32172" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0041</data>
+    </edge>
+    <edge source="32172" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0584</data>
+    </edge>
+    <edge source="32172" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0553</data>
+    </edge>
+    <edge source="32172" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0065</data>
+    </edge>
+    <edge source="32172" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1095</data>
+    </edge>
+    <edge source="32172" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0441</data>
+    </edge>
+    <edge source="32172" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0819</data>
+    </edge>
+    <edge source="32172" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0197</data>
+    </edge>
+    <edge source="32172" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0017</data>
+    </edge>
+    <edge source="32172" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.4799</data>
+    </edge>
+    <edge source="32172" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0379</data>
+    </edge>
+    <edge source="32172" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0471</data>
+    </edge>
+    <edge source="32172" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32172" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0019</data>
+    </edge>
+    <edge source="32172" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32172" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0042</data>
+    </edge>
+    <edge source="32172" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32172" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0256</data>
+    </edge>
+    <edge source="32172" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0205</data>
+    </edge>
+    <edge source="32173" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32173" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32173" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32173" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32173" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1741</data>
+    </edge>
+    <edge source="32173" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0701</data>
+    </edge>
+    <edge source="32173" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32173" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0202</data>
+    </edge>
+    <edge source="32173" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0017</data>
+    </edge>
+    <edge source="32173" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.4931</data>
+    </edge>
+    <edge source="32173" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0389</data>
+    </edge>
+    <edge source="32173" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0484</data>
+    </edge>
+    <edge source="32173" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32173" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32173" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32173" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0044</data>
+    </edge>
+    <edge source="32173" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32173" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32173" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32173" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32173" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32175" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0189</data>
+    </edge>
+    <edge source="32175" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32175" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32175" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0071</data>
+    </edge>
+    <edge source="32175" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32175" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32175" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32175" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32175" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.2498</data>
+    </edge>
+    <edge source="32175" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0197</data>
+    </edge>
+    <edge source="32175" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0245</data>
+    </edge>
+    <edge source="32175" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32175" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32175" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32175" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0022</data>
+    </edge>
+    <edge source="32175" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32175" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.0251</data>
+    </edge>
+    <edge source="32175" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0363</data>
+    </edge>
+    <edge source="32175" target="32172">
+      <data key="d2">predation</data>
+      <data key="d3">0.0452</data>
+    </edge>
+    <edge source="32175" target="32173">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32175" target="32174">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32175" target="32176">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32175" target="32177">
+      <data key="d2">predation</data>
+      <data key="d3">0.091</data>
+    </edge>
+    <edge source="32175" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.0484</data>
+    </edge>
+    <edge source="32175" target="32179">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32175" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.0499</data>
+    </edge>
+    <edge source="32175" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.0201</data>
+    </edge>
+    <edge source="32175" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.08</data>
+    </edge>
+    <edge source="32175" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0153</data>
+    </edge>
+    <edge source="32175" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.0502</data>
+    </edge>
+    <edge source="32175" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0201</data>
+    </edge>
+    <edge source="32175" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0261</data>
+    </edge>
+    <edge source="32175" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0512</data>
+    </edge>
+    <edge source="32175" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0077</data>
+    </edge>
+    <edge source="32175" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0234</data>
+    </edge>
+    <edge source="32176" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32176" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0012</data>
+    </edge>
+    <edge source="32176" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32176" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0031</data>
+    </edge>
+    <edge source="32176" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0264</data>
+    </edge>
+    <edge source="32176" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.1008</data>
+    </edge>
+    <edge source="32176" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0159</data>
+    </edge>
+    <edge source="32176" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32176" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.4313</data>
+    </edge>
+    <edge source="32176" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1735</data>
+    </edge>
+    <edge source="32176" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32176" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32176" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32176" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.1465</data>
+    </edge>
+    <edge source="32176" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0116</data>
+    </edge>
+    <edge source="32176" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0144</data>
+    </edge>
+    <edge source="32176" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32176" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32176" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32176" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32176" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32176" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0171</data>
+    </edge>
+    <edge source="32176" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0333</data>
+    </edge>
+    <edge source="32176" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32176" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32176" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32177" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.011</data>
+    </edge>
+    <edge source="32177" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0479</data>
+    </edge>
+    <edge source="32177" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0241</data>
+    </edge>
+    <edge source="32177" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32177" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0091</data>
+    </edge>
+    <edge source="32177" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0104</data>
+    </edge>
+    <edge source="32177" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0055</data>
+    </edge>
+    <edge source="32177" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0098</data>
+    </edge>
+    <edge source="32177" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.4436</data>
+    </edge>
+    <edge source="32177" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1785</data>
+    </edge>
+    <edge source="32177" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0829</data>
+    </edge>
+    <edge source="32177" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0024</data>
+    </edge>
+    <edge source="32177" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32177" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0586</data>
+    </edge>
+    <edge source="32177" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0046</data>
+    </edge>
+    <edge source="32177" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0058</data>
+    </edge>
+    <edge source="32177" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32177" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32177" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32177" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0238</data>
+    </edge>
+    <edge source="32177" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0487</data>
+    </edge>
+    <edge source="32177" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0311</data>
+    </edge>
+    <edge source="32178" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32178" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32178" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32178" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32178" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.09</data>
+    </edge>
+    <edge source="32178" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.2995</data>
+    </edge>
+    <edge source="32178" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1205</data>
+    </edge>
+    <edge source="32178" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32178" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0086</data>
+    </edge>
+    <edge source="32178" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32178" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.21</data>
+    </edge>
+    <edge source="32178" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0166</data>
+    </edge>
+    <edge source="32178" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0206</data>
+    </edge>
+    <edge source="32178" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32178" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32178" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32178" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0019</data>
+    </edge>
+    <edge source="32178" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32178" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32178" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0146</data>
+    </edge>
+    <edge source="32178" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.0195</data>
+    </edge>
+    <edge source="32178" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.0133</data>
+    </edge>
+    <edge source="32178" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32178" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0062</data>
+    </edge>
+    <edge source="32178" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32178" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.0209</data>
+    </edge>
+    <edge source="32178" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32178" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32178" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32178" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32178" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.036</data>
+    </edge>
+    <edge source="32178" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32178" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32178" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.0069</data>
+    </edge>
+    <edge source="32179" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32179" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32179" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32179" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0018</data>
+    </edge>
+    <edge source="32179" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0033</data>
+    </edge>
+    <edge source="32179" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0027</data>
+    </edge>
+    <edge source="32179" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1783</data>
+    </edge>
+    <edge source="32179" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0717</data>
+    </edge>
+    <edge source="32179" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0155</data>
+    </edge>
+    <edge source="32179" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32179" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32179" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.1248</data>
+    </edge>
+    <edge source="32179" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0098</data>
+    </edge>
+    <edge source="32179" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0122</data>
+    </edge>
+    <edge source="32179" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32179" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32179" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32179" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32179" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32179" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0075</data>
+    </edge>
+    <edge source="32179" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32179" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.0124</data>
+    </edge>
+    <edge source="32179" target="32181">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32179" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32179" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.08</data>
+    </edge>
+    <edge source="32179" target="32184">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32179" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32179" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0031</data>
+    </edge>
+    <edge source="32179" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.0567</data>
+    </edge>
+    <edge source="32179" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32179" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0166</data>
+    </edge>
+    <edge source="32179" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0309</data>
+    </edge>
+    <edge source="32179" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.065</data>
+    </edge>
+    <edge source="32179" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0258</data>
+    </edge>
+    <edge source="32179" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0348</data>
+    </edge>
+    <edge source="32179" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32179" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32179" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.0495</data>
+    </edge>
+    <edge source="32179" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32179" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32179" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0395</data>
+    </edge>
+    <edge source="32179" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0105</data>
+    </edge>
+    <edge source="32179" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.0515</data>
+    </edge>
+    <edge source="32179" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32179" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32180" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32180" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32180" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32180" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32180" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.3993</data>
+    </edge>
+    <edge source="32180" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1607</data>
+    </edge>
+    <edge source="32180" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32180" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0078</data>
+    </edge>
+    <edge source="32180" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32180" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.1901</data>
+    </edge>
+    <edge source="32180" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32180" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0187</data>
+    </edge>
+    <edge source="32180" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32180" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32180" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32180" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0017</data>
+    </edge>
+    <edge source="32180" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32180" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.0025</data>
+    </edge>
+    <edge source="32180" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32180" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32180" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32180" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32180" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32180" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32180" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32180" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.008</data>
+    </edge>
+    <edge source="32180" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32180" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32181" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32181" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0069</data>
+    </edge>
+    <edge source="32181" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0042</data>
+    </edge>
+    <edge source="32181" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32181" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0089</data>
+    </edge>
+    <edge source="32181" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0856</data>
+    </edge>
+    <edge source="32181" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0344</data>
+    </edge>
+    <edge source="32181" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.054</data>
+    </edge>
+    <edge source="32181" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.009</data>
+    </edge>
+    <edge source="32181" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32181" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.2182</data>
+    </edge>
+    <edge source="32181" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0172</data>
+    </edge>
+    <edge source="32181" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0214</data>
+    </edge>
+    <edge source="32181" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32181" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32181" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32181" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0019</data>
+    </edge>
+    <edge source="32181" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32181" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.0054</data>
+    </edge>
+    <edge source="32181" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0173</data>
+    </edge>
+    <edge source="32181" target="32172">
+      <data key="d2">predation</data>
+      <data key="d3">0.0058</data>
+    </edge>
+    <edge source="32181" target="32173">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32181" target="32174">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32181" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.023</data>
+    </edge>
+    <edge source="32181" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.0173</data>
+    </edge>
+    <edge source="32181" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.0065</data>
+    </edge>
+    <edge source="32181" target="32184">
+      <data key="d2">predation</data>
+      <data key="d3">0.0022</data>
+    </edge>
+    <edge source="32181" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0865</data>
+    </edge>
+    <edge source="32181" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0073</data>
+    </edge>
+    <edge source="32181" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.0054</data>
+    </edge>
+    <edge source="32181" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.0043</data>
+    </edge>
+    <edge source="32181" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0216</data>
+    </edge>
+    <edge source="32181" target="32190">
+      <data key="d2">predation</data>
+      <data key="d3">0.0054</data>
+    </edge>
+    <edge source="32181" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0357</data>
+    </edge>
+    <edge source="32181" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0703</data>
+    </edge>
+    <edge source="32181" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.0216</data>
+    </edge>
+    <edge source="32181" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0216</data>
+    </edge>
+    <edge source="32181" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32181" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32181" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32181" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32181" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32181" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0158</data>
+    </edge>
+    <edge source="32181" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0042</data>
+    </edge>
+    <edge source="32181" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.054</data>
+    </edge>
+    <edge source="32181" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32181" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32182" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32182" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32182" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32182" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32182" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0036</data>
+    </edge>
+    <edge source="32182" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32182" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.1501</data>
+    </edge>
+    <edge source="32182" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0035</data>
+    </edge>
+    <edge source="32182" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32182" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0848</data>
+    </edge>
+    <edge source="32182" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0067</data>
+    </edge>
+    <edge source="32182" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0083</data>
+    </edge>
+    <edge source="32182" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32182" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32182" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32182" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32182" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32182" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0163</data>
+    </edge>
+    <edge source="32182" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.0217</data>
+    </edge>
+    <edge source="32182" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.012</data>
+    </edge>
+    <edge source="32182" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32182" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.2501</data>
+    </edge>
+    <edge source="32182" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0069</data>
+    </edge>
+    <edge source="32182" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.074</data>
+    </edge>
+    <edge source="32182" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32182" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32182" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0477</data>
+    </edge>
+    <edge source="32182" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32182" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32182" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32182" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32182" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32182" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32182" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0395</data>
+    </edge>
+    <edge source="32182" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0105</data>
+    </edge>
+    <edge source="32182" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32183" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32183" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0076</data>
+    </edge>
+    <edge source="32183" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32183" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0045</data>
+    </edge>
+    <edge source="32183" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32183" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0856</data>
+    </edge>
+    <edge source="32183" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0344</data>
+    </edge>
+    <edge source="32183" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32183" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.007</data>
+    </edge>
+    <edge source="32183" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32183" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.1697</data>
+    </edge>
+    <edge source="32183" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0134</data>
+    </edge>
+    <edge source="32183" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0167</data>
+    </edge>
+    <edge source="32183" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32183" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32183" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32183" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32183" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32183" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32183" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32183" target="32172">
+      <data key="d2">predation</data>
+      <data key="d3">0.009</data>
+    </edge>
+    <edge source="32183" target="32173">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32183" target="32174">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32183" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.0134</data>
+    </edge>
+    <edge source="32183" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.0251</data>
+    </edge>
+    <edge source="32183" target="32181">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32183" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32183" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32183" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32183" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0042</data>
+    </edge>
+    <edge source="32183" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32183" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32183" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32183" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32183" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32183" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32183" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32183" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.053</data>
+    </edge>
+    <edge source="32183" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32183" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32183" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32183" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0316</data>
+    </edge>
+    <edge source="32183" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0084</data>
+    </edge>
+    <edge source="32183" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.07</data>
+    </edge>
+    <edge source="32183" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32183" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32184" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0036</data>
+    </edge>
+    <edge source="32184" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32184" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32184" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32184" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0089</data>
+    </edge>
+    <edge source="32184" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32184" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32184" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32184" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32184" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32184" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32184" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.059</data>
+    </edge>
+    <edge source="32184" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32184" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.023</data>
+    </edge>
+    <edge source="32184" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.047</data>
+    </edge>
+    <edge source="32184" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.049</data>
+    </edge>
+    <edge source="32184" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32184" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32184" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32184" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32184" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32184" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32184" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32184" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0592</data>
+    </edge>
+    <edge source="32184" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0158</data>
+    </edge>
+    <edge source="32184" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.22</data>
+    </edge>
+    <edge source="32184" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32184" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32186" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0019</data>
+    </edge>
+    <edge source="32186" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0082</data>
+    </edge>
+    <edge source="32186" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0041</data>
+    </edge>
+    <edge source="32186" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32186" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0655</data>
+    </edge>
+    <edge source="32186" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32186" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32186" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32186" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32186" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32186" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32186" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32186" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32186" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32186" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.0202</data>
+    </edge>
+    <edge source="32186" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32186" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32186" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32186" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0302</data>
+    </edge>
+    <edge source="32186" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32186" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.0023</data>
+    </edge>
+    <edge source="32186" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0012</data>
+    </edge>
+    <edge source="32186" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0071</data>
+    </edge>
+    <edge source="32186" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32186" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.2721</data>
+    </edge>
+    <edge source="32186" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.1351</data>
+    </edge>
+    <edge source="32186" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.4173</data>
+    </edge>
+    <edge source="32187" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0027</data>
+    </edge>
+    <edge source="32187" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0118</data>
+    </edge>
+    <edge source="32187" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0059</data>
+    </edge>
+    <edge source="32187" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32187" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0018</data>
+    </edge>
+    <edge source="32187" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32187" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0065</data>
+    </edge>
+    <edge source="32187" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.2191</data>
+    </edge>
+    <edge source="32187" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0882</data>
+    </edge>
+    <edge source="32187" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0205</data>
+    </edge>
+    <edge source="32187" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0022</data>
+    </edge>
+    <edge source="32187" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32187" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0538</data>
+    </edge>
+    <edge source="32187" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0042</data>
+    </edge>
+    <edge source="32187" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0053</data>
+    </edge>
+    <edge source="32187" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32187" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32187" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32187" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.0072</data>
+    </edge>
+    <edge source="32187" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0256</data>
+    </edge>
+    <edge source="32187" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32187" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0031</data>
+    </edge>
+    <edge source="32187" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0031</data>
+    </edge>
+    <edge source="32187" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0072</data>
+    </edge>
+    <edge source="32187" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.0512</data>
+    </edge>
+    <edge source="32187" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.1024</data>
+    </edge>
+    <edge source="32187" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.1024</data>
+    </edge>
+    <edge source="32187" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0205</data>
+    </edge>
+    <edge source="32187" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32187" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.0194</data>
+    </edge>
+    <edge source="32187" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32187" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32187" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0404</data>
+    </edge>
+    <edge source="32187" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0108</data>
+    </edge>
+    <edge source="32187" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.1536</data>
+    </edge>
+    <edge source="32187" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32187" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.0154</data>
+    </edge>
+    <edge source="32188" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0027</data>
+    </edge>
+    <edge source="32188" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0116</data>
+    </edge>
+    <edge source="32188" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0058</data>
+    </edge>
+    <edge source="32188" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32188" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32188" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.6024</data>
+    </edge>
+    <edge source="32188" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0201</data>
+    </edge>
+    <edge source="32188" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.1004</data>
+    </edge>
+    <edge source="32188" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0402</data>
+    </edge>
+    <edge source="32188" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0055</data>
+    </edge>
+    <edge source="32188" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32188" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.2008</data>
+    </edge>
+    <edge source="32188" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32188" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32189" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0094</data>
+    </edge>
+    <edge source="32189" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0408</data>
+    </edge>
+    <edge source="32189" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0205</data>
+    </edge>
+    <edge source="32189" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32189" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0082</data>
+    </edge>
+    <edge source="32189" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32189" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0049</data>
+    </edge>
+    <edge source="32189" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32189" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.072</data>
+    </edge>
+    <edge source="32189" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0289</data>
+    </edge>
+    <edge source="32189" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32189" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0061</data>
+    </edge>
+    <edge source="32189" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32189" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0166</data>
+    </edge>
+    <edge source="32189" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0118</data>
+    </edge>
+    <edge source="32189" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0147</data>
+    </edge>
+    <edge source="32189" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32189" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32189" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32189" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32189" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0202</data>
+    </edge>
+    <edge source="32189" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32189" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0071</data>
+    </edge>
+    <edge source="32189" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.1513</data>
+    </edge>
+    <edge source="32189" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.0504</data>
+    </edge>
+    <edge source="32189" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.1362</data>
+    </edge>
+    <edge source="32189" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.1009</data>
+    </edge>
+    <edge source="32189" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32189" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32189" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32189" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32189" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.008</data>
+    </edge>
+    <edge source="32189" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32189" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.2522</data>
+    </edge>
+    <edge source="32189" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32189" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32190" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.3</data>
+    </edge>
+    <edge source="32190" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32190" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32190" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32190" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32190" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32190" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32190" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32190" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.13</data>
+    </edge>
+    <edge source="32190" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32191" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0723</data>
+    </edge>
+    <edge source="32191" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.3152</data>
+    </edge>
+    <edge source="32191" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.1584</data>
+    </edge>
+    <edge source="32191" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32191" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.1284</data>
+    </edge>
+    <edge source="32191" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.105</data>
+    </edge>
+    <edge source="32191" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.077</data>
+    </edge>
+    <edge source="32191" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0133</data>
+    </edge>
+    <edge source="32191" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0599</data>
+    </edge>
+    <edge source="32191" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0241</data>
+    </edge>
+    <edge source="32191" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0063</data>
+    </edge>
+    <edge source="32191" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0147</data>
+    </edge>
+    <edge source="32191" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0105</data>
+    </edge>
+    <edge source="32194" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0146</data>
+    </edge>
+    <edge source="32194" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0635</data>
+    </edge>
+    <edge source="32194" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0319</data>
+    </edge>
+    <edge source="32194" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0027</data>
+    </edge>
+    <edge source="32194" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0233</data>
+    </edge>
+    <edge source="32194" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32194" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.014</data>
+    </edge>
+    <edge source="32194" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1426</data>
+    </edge>
+    <edge source="32194" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0574</data>
+    </edge>
+    <edge source="32194" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.2</data>
+    </edge>
+    <edge source="32194" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.06</data>
+    </edge>
+    <edge source="32194" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.07</data>
+    </edge>
+    <edge source="32194" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32194" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32194" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32194" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32194" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32194" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32194" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32194" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.25</data>
+    </edge>
+    <edge source="32196" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0192</data>
+    </edge>
+    <edge source="32196" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0837</data>
+    </edge>
+    <edge source="32196" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0421</data>
+    </edge>
+    <edge source="32196" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32196" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0175</data>
+    </edge>
+    <edge source="32196" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0105</data>
+    </edge>
+    <edge source="32196" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0722</data>
+    </edge>
+    <edge source="32196" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.029</data>
+    </edge>
+    <edge source="32196" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.2699</data>
+    </edge>
+    <edge source="32196" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32196" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32196" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32196" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32196" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32196" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32196" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32196" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32196" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32196" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32196" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.2499</data>
+    </edge>
+    <edge source="32197" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0663</data>
+    </edge>
+    <edge source="32197" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0337</data>
+    </edge>
+    <edge source="32197" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32197" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32197" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.849</data>
+    </edge>
+    <edge source="32198" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32198" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.999</data>
+    </edge>
+    <edge source="32199" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0133</data>
+    </edge>
+    <edge source="32199" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0067</data>
+    </edge>
+    <edge source="32199" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32199" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32199" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.9</data>
+    </edge>
+    <edge source="32201" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0143</data>
+    </edge>
+    <edge source="32201" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0057</data>
+    </edge>
+    <edge source="32201" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32201" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0046</data>
+    </edge>
+    <edge source="32201" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0088</data>
+    </edge>
+    <edge source="32201" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0109</data>
+    </edge>
+    <edge source="32201" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32201" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32201" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32201" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32201" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32201" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32201" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.012</data>
+    </edge>
+    <edge source="32201" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.033</data>
+    </edge>
+    <edge source="32201" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32201" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32201" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32201" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32201" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32201" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32201" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.2</data>
+    </edge>
+    <edge source="32201" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.048</data>
+    </edge>
+    <edge source="32201" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32201" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32201" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.3</data>
+    </edge>
+    <edge source="32201" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32201" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.039</data>
+    </edge>
+    <edge source="32202" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.4</data>
+    </edge>
+    <edge source="32202" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32202" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32202" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32202" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.029</data>
+    </edge>
+    <edge source="32202" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32202" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.2</data>
+    </edge>
+    <edge source="32202" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32202" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32202" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32202" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.06</data>
+    </edge>
+    <edge source="32204" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32204" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32204" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32204" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0143</data>
+    </edge>
+    <edge source="32204" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0057</data>
+    </edge>
+    <edge source="32204" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32204" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0249</data>
+    </edge>
+    <edge source="32204" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32204" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.6058</data>
+    </edge>
+    <edge source="32204" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0478</data>
+    </edge>
+    <edge source="32204" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0594</data>
+    </edge>
+    <edge source="32204" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32204" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0024</data>
+    </edge>
+    <edge source="32204" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32204" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0054</data>
+    </edge>
+    <edge source="32204" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32204" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32205" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32205" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32205" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32205" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32205" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0107</data>
+    </edge>
+    <edge source="32205" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0043</data>
+    </edge>
+    <edge source="32205" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.2</data>
+    </edge>
+    <edge source="32205" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0199</data>
+    </edge>
+    <edge source="32205" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0017</data>
+    </edge>
+    <edge source="32205" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.4846</data>
+    </edge>
+    <edge source="32205" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0383</data>
+    </edge>
+    <edge source="32205" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0476</data>
+    </edge>
+    <edge source="32205" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32205" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0019</data>
+    </edge>
+    <edge source="32205" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32205" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0043</data>
+    </edge>
+    <edge source="32205" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32205" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32205" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32205" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32205" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32205" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32206" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32206" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32206" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32206" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0071</data>
+    </edge>
+    <edge source="32206" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32206" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32206" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0159</data>
+    </edge>
+    <edge source="32206" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32206" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.3877</data>
+    </edge>
+    <edge source="32206" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0306</data>
+    </edge>
+    <edge source="32206" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.038</data>
+    </edge>
+    <edge source="32206" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32206" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0016</data>
+    </edge>
+    <edge source="32206" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32206" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0034</data>
+    </edge>
+    <edge source="32206" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32206" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32206" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32206" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32206" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32206" target="32205">
+      <data key="d2">predation</data>
+      <data key="d3">0.0082</data>
+    </edge>
+    <edge source="32206" target="32206">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32206" target="32207">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32206" target="32210">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32206" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32206" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32206" target="32224">
+      <data key="d2">unspecified</data>
+      <data key="d3">0.24</data>
+    </edge>
+    <edge source="32207" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.152</data>
+    </edge>
+    <edge source="32207" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0152</data>
+    </edge>
+    <edge source="32207" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0152</data>
+    </edge>
+    <edge source="32207" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0314</data>
+    </edge>
+    <edge source="32207" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32207" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1806</data>
+    </edge>
+    <edge source="32207" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0727</data>
+    </edge>
+    <edge source="32207" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32207" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0924</data>
+    </edge>
+    <edge source="32207" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.1777</data>
+    </edge>
+    <edge source="32207" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.221</data>
+    </edge>
+    <edge source="32207" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.009</data>
+    </edge>
+    <edge source="32207" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0048</data>
+    </edge>
+    <edge source="32207" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0017</data>
+    </edge>
+    <edge source="32207" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32207" target="32181">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32207" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32207" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32207" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32207" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32207" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32208" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0121</data>
+    </edge>
+    <edge source="32208" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.011</data>
+    </edge>
+    <edge source="32208" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0251</data>
+    </edge>
+    <edge source="32208" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32208" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0286</data>
+    </edge>
+    <edge source="32208" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0115</data>
+    </edge>
+    <edge source="32208" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.5524</data>
+    </edge>
+    <edge source="32208" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0083</data>
+    </edge>
+    <edge source="32208" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32208" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.2028</data>
+    </edge>
+    <edge source="32208" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.016</data>
+    </edge>
+    <edge source="32208" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0199</data>
+    </edge>
+    <edge source="32208" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32208" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32208" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32208" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0018</data>
+    </edge>
+    <edge source="32208" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32208" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32208" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.1004</data>
+    </edge>
+    <edge source="32208" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32209" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32209" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32209" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32209" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32209" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32209" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0178</data>
+    </edge>
+    <edge source="32209" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0072</data>
+    </edge>
+    <edge source="32209" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.15</data>
+    </edge>
+    <edge source="32209" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0239</data>
+    </edge>
+    <edge source="32209" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32209" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.5815</data>
+    </edge>
+    <edge source="32209" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0459</data>
+    </edge>
+    <edge source="32209" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0571</data>
+    </edge>
+    <edge source="32209" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32209" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0023</data>
+    </edge>
+    <edge source="32209" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0012</data>
+    </edge>
+    <edge source="32209" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32209" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32209" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32211" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.2082</data>
+    </edge>
+    <edge source="32211" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.026</data>
+    </edge>
+    <edge source="32211" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0312</data>
+    </edge>
+    <edge source="32211" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0312</data>
+    </edge>
+    <edge source="32211" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.1093</data>
+    </edge>
+    <edge source="32211" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.011</data>
+    </edge>
+    <edge source="32211" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1114</data>
+    </edge>
+    <edge source="32211" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0448</data>
+    </edge>
+    <edge source="32211" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.0104</data>
+    </edge>
+    <edge source="32211" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0665</data>
+    </edge>
+    <edge source="32211" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.1278</data>
+    </edge>
+    <edge source="32211" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.1589</data>
+    </edge>
+    <edge source="32211" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0065</data>
+    </edge>
+    <edge source="32211" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0034</data>
+    </edge>
+    <edge source="32211" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0012</data>
+    </edge>
+    <edge source="32211" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0521</data>
+    </edge>
+    <edge source="32212" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.12</data>
+    </edge>
+    <edge source="32212" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0357</data>
+    </edge>
+    <edge source="32212" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0143</data>
+    </edge>
+    <edge source="32212" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32212" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.08</data>
+    </edge>
+    <edge source="32212" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.08</data>
+    </edge>
+    <edge source="32212" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.5</data>
+    </edge>
+    <edge source="32212" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.004</data>
+    </edge>
+    <edge source="32212" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32212" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32212" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.009</data>
+    </edge>
+    <edge source="32212" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32212" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32213" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32213" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0058</data>
+    </edge>
+    <edge source="32213" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32213" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32213" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32213" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32213" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.3566</data>
+    </edge>
+    <edge source="32213" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.1434</data>
+    </edge>
+    <edge source="32213" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32213" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32213" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32213" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.1212</data>
+    </edge>
+    <edge source="32213" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0096</data>
+    </edge>
+    <edge source="32213" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0119</data>
+    </edge>
+    <edge source="32213" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32213" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32213" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32213" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32213" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32213" target="32176">
+      <data key="d2">predation</data>
+      <data key="d3">0.0006</data>
+    </edge>
+    <edge source="32213" target="32177">
+      <data key="d2">predation</data>
+      <data key="d3">0.0094</data>
+    </edge>
+    <edge source="32213" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.017</data>
+    </edge>
+    <edge source="32213" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.033</data>
+    </edge>
+    <edge source="32213" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32213" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32213" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32214" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32214" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0274</data>
+    </edge>
+    <edge source="32214" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32214" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0987</data>
+    </edge>
+    <edge source="32214" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0526</data>
+    </edge>
+    <edge source="32214" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0654</data>
+    </edge>
+    <edge source="32214" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32214" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0027</data>
+    </edge>
+    <edge source="32214" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32214" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32214" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32214" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.024</data>
+    </edge>
+    <edge source="32214" target="32172">
+      <data key="d2">predation</data>
+      <data key="d3">0.045</data>
+    </edge>
+    <edge source="32214" target="32173">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32214" target="32174">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32214" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32214" target="32179">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32214" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.012</data>
+    </edge>
+    <edge source="32214" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.083</data>
+    </edge>
+    <edge source="32214" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32214" target="32184">
+      <data key="d2">predation</data>
+      <data key="d3">0.0204</data>
+    </edge>
+    <edge source="32214" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.034</data>
+    </edge>
+    <edge source="32214" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32214" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.052</data>
+    </edge>
+    <edge source="32214" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.1391</data>
+    </edge>
+    <edge source="32214" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0724</data>
+    </edge>
+    <edge source="32214" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32214" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0419</data>
+    </edge>
+    <edge source="32214" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0111</data>
+    </edge>
+    <edge source="32214" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32215" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32215" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0182</data>
+    </edge>
+    <edge source="32215" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32215" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0987</data>
+    </edge>
+    <edge source="32215" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0351</data>
+    </edge>
+    <edge source="32215" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0436</data>
+    </edge>
+    <edge source="32215" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32215" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0018</data>
+    </edge>
+    <edge source="32215" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32215" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32215" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32215" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.0408</data>
+    </edge>
+    <edge source="32215" target="32172">
+      <data key="d2">predation</data>
+      <data key="d3">0.045</data>
+    </edge>
+    <edge source="32215" target="32173">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32215" target="32174">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32215" target="32176">
+      <data key="d2">predation</data>
+      <data key="d3">0.0111</data>
+    </edge>
+    <edge source="32215" target="32177">
+      <data key="d2">predation</data>
+      <data key="d3">0.1688</data>
+    </edge>
+    <edge source="32215" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.07</data>
+    </edge>
+    <edge source="32215" target="32179">
+      <data key="d2">predation</data>
+      <data key="d3">0.1499</data>
+    </edge>
+    <edge source="32215" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.022</data>
+    </edge>
+    <edge source="32215" target="32182">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32215" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.0111</data>
+    </edge>
+    <edge source="32215" target="32184">
+      <data key="d2">predation</data>
+      <data key="d3">0.075</data>
+    </edge>
+    <edge source="32215" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32215" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0172</data>
+    </edge>
+    <edge source="32215" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32215" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32215" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0031</data>
+    </edge>
+    <edge source="32215" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32215" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0395</data>
+    </edge>
+    <edge source="32215" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0105</data>
+    </edge>
+    <edge source="32215" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32216" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.225</data>
+    </edge>
+    <edge source="32216" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0133</data>
+    </edge>
+    <edge source="32216" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32216" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.3231</data>
+    </edge>
+    <edge source="32216" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0255</data>
+    </edge>
+    <edge source="32216" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0317</data>
+    </edge>
+    <edge source="32216" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0003</data>
+    </edge>
+    <edge source="32216" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0013</data>
+    </edge>
+    <edge source="32216" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32216" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32216" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32216" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.07</data>
+    </edge>
+    <edge source="32216" target="32171">
+      <data key="d2">predation</data>
+      <data key="d3">0.016</data>
+    </edge>
+    <edge source="32216" target="32172">
+      <data key="d2">predation</data>
+      <data key="d3">0.018</data>
+    </edge>
+    <edge source="32216" target="32173">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32216" target="32174">
+      <data key="d2">predation</data>
+      <data key="d3">0.0012</data>
+    </edge>
+    <edge source="32216" target="32175">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32216" target="32176">
+      <data key="d2">predation</data>
+      <data key="d3">0.0019</data>
+    </edge>
+    <edge source="32216" target="32177">
+      <data key="d2">predation</data>
+      <data key="d3">0.0281</data>
+    </edge>
+    <edge source="32216" target="32178">
+      <data key="d2">predation</data>
+      <data key="d3">0.07</data>
+    </edge>
+    <edge source="32216" target="32179">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32216" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.019</data>
+    </edge>
+    <edge source="32216" target="32181">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32216" target="32183">
+      <data key="d2">predation</data>
+      <data key="d3">0.025</data>
+    </edge>
+    <edge source="32216" target="32184">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32216" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32216" target="32186">
+      <data key="d2">predation</data>
+      <data key="d3">0.0067</data>
+    </edge>
+    <edge source="32216" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32216" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.0232</data>
+    </edge>
+    <edge source="32216" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.0121</data>
+    </edge>
+    <edge source="32216" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.006</data>
+    </edge>
+    <edge source="32216" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.014</data>
+    </edge>
+    <edge source="32147" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.265</data>
+    </edge>
+    <edge source="32147" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.135</data>
+    </edge>
+    <edge source="32147" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.6</data>
+    </edge>
+    <edge source="32170" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0082</data>
+    </edge>
+    <edge source="32170" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0357</data>
+    </edge>
+    <edge source="32170" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.018</data>
+    </edge>
+    <edge source="32170" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0122</data>
+    </edge>
+    <edge source="32170" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.1072</data>
+    </edge>
+    <edge source="32170" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0033</data>
+    </edge>
+    <edge source="32170" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0279</data>
+    </edge>
+    <edge source="32170" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.7733</data>
+    </edge>
+    <edge source="32170" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0077</data>
+    </edge>
+    <edge source="32170" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0033</data>
+    </edge>
+    <edge source="32170" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0033</data>
+    </edge>
+    <edge source="32185" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32185" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0012</data>
+    </edge>
+    <edge source="32185" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.0033</data>
+    </edge>
+    <edge source="32185" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0023</data>
+    </edge>
+    <edge source="32185" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32185" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32185" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0001</data>
+    </edge>
+    <edge source="32185" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.003</data>
+    </edge>
+    <edge source="32185" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.008</data>
+    </edge>
+    <edge source="32185" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.017</data>
+    </edge>
+    <edge source="32185" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.35</data>
+    </edge>
+    <edge source="32185" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32185" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.09</data>
+    </edge>
+    <edge source="32185" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32185" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32185" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.007</data>
+    </edge>
+    <edge source="32185" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32185" target="32201">
+      <data key="d2">predation</data>
+      <data key="d3">0.0055</data>
+    </edge>
+    <edge source="32185" target="32202">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32185" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.4</data>
+    </edge>
+    <edge source="32185" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32185" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32193" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="32150" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.3975</data>
+    </edge>
+    <edge source="32150" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2025</data>
+    </edge>
+    <edge source="32150" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.4</data>
+    </edge>
+    <edge source="32153" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0338</data>
+    </edge>
+    <edge source="32153" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0172</data>
+    </edge>
+    <edge source="32153" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.0308</data>
+    </edge>
+    <edge source="32153" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0748</data>
+    </edge>
+    <edge source="32153" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.3258</data>
+    </edge>
+    <edge source="32153" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.1637</data>
+    </edge>
+    <edge source="32153" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0031</data>
+    </edge>
+    <edge source="32153" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0267</data>
+    </edge>
+    <edge source="32153" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32153" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.016</data>
+    </edge>
+    <edge source="32153" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0043</data>
+    </edge>
+    <edge source="32153" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32153" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.1828</data>
+    </edge>
+    <edge source="32153" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0735</data>
+    </edge>
+    <edge source="32153" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0205</data>
+    </edge>
+    <edge source="32153" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32153" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32154" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.2013</data>
+    </edge>
+    <edge source="32154" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.1025</data>
+    </edge>
+    <edge source="32154" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.1519</data>
+    </edge>
+    <edge source="32154" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0563</data>
+    </edge>
+    <edge source="32154" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.2452</data>
+    </edge>
+    <edge source="32154" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.1232</data>
+    </edge>
+    <edge source="32154" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32154" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0121</data>
+    </edge>
+    <edge source="32154" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0051</data>
+    </edge>
+    <edge source="32154" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0073</data>
+    </edge>
+    <edge source="32154" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0021</data>
+    </edge>
+    <edge source="32154" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32154" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0361</data>
+    </edge>
+    <edge source="32154" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0145</data>
+    </edge>
+    <edge source="32154" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32154" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32154" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32154" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.0101</data>
+    </edge>
+    <edge source="32192" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0929</data>
+    </edge>
+    <edge source="32192" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32192" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0848</data>
+    </edge>
+    <edge source="32192" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.3697</data>
+    </edge>
+    <edge source="32192" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.1857</data>
+    </edge>
+    <edge source="32192" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0056</data>
+    </edge>
+    <edge source="32192" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.0481</data>
+    </edge>
+    <edge source="32192" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.031</data>
+    </edge>
+    <edge source="32192" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0289</data>
+    </edge>
+    <edge source="32192" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0087</data>
+    </edge>
+    <edge source="32192" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0295</data>
+    </edge>
+    <edge source="32192" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0118</data>
+    </edge>
+    <edge source="32192" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0062</data>
+    </edge>
+    <edge source="32192" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0145</data>
+    </edge>
+    <edge source="32192" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32192" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32192" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.0052</data>
+    </edge>
+    <edge source="32192" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.031</data>
+    </edge>
+    <edge source="32192" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32192" target="32221">
+      <data key="d2">predation</data>
+      <data key="d3">0.0103</data>
+    </edge>
+    <edge source="32195" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0357</data>
+    </edge>
+    <edge source="32195" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0143</data>
+    </edge>
+    <edge source="32195" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32195" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.262</data>
+    </edge>
+    <edge source="32195" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32195" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32195" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.2</data>
+    </edge>
+    <edge source="32195" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32195" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32195" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32195" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32195" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.3</data>
+    </edge>
+    <edge source="32200" target="32217">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0066</data>
+    </edge>
+    <edge source="32200" target="32218">
+      <data key="d2">herbivory</data>
+      <data key="d3">0.0034</data>
+    </edge>
+    <edge source="32200" target="32147">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32200" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0007</data>
+    </edge>
+    <edge source="32200" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32200" target="32150">
+      <data key="d2">predation</data>
+      <data key="d3">0.0015</data>
+    </edge>
+    <edge source="32200" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0036</data>
+    </edge>
+    <edge source="32200" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0014</data>
+    </edge>
+    <edge source="32200" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32200" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32200" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32200" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32200" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32200" target="32220">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32200" target="32219">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32200" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.88</data>
+    </edge>
+    <edge source="32203" target="32193">
+      <data key="d2">predation</data>
+      <data key="d3">0.305</data>
+    </edge>
+    <edge source="32203" target="32194">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32203" target="32195">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32203" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32203" target="32197">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32203" target="32198">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32203" target="32199">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32203" target="32200">
+      <data key="d2">predation</data>
+      <data key="d3">0.034</data>
+    </edge>
+    <edge source="32203" target="32203">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32203" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.035</data>
+    </edge>
+    <edge source="32203" target="32222">
+      <data key="d2">detritivore</data>
+      <data key="d3">0.33</data>
+    </edge>
+    <edge source="32174" target="32148">
+      <data key="d2">predation</data>
+      <data key="d3">0.0198</data>
+    </edge>
+    <edge source="32174" target="32149">
+      <data key="d2">predation</data>
+      <data key="d3">0.0988</data>
+    </edge>
+    <edge source="32174" target="32151">
+      <data key="d2">predation</data>
+      <data key="d3">0.0066</data>
+    </edge>
+    <edge source="32174" target="32152">
+      <data key="d2">predation</data>
+      <data key="d3">0.2107</data>
+    </edge>
+    <edge source="32174" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.0132</data>
+    </edge>
+    <edge source="32174" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.0132</data>
+    </edge>
+    <edge source="32174" target="32155">
+      <data key="d2">predation</data>
+      <data key="d3">0.0541</data>
+    </edge>
+    <edge source="32174" target="32156">
+      <data key="d2">predation</data>
+      <data key="d3">0.0176</data>
+    </edge>
+    <edge source="32174" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0563</data>
+    </edge>
+    <edge source="32174" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0227</data>
+    </edge>
+    <edge source="32174" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.1317</data>
+    </edge>
+    <edge source="32174" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0092</data>
+    </edge>
+    <edge source="32174" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0008</data>
+    </edge>
+    <edge source="32174" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.2233</data>
+    </edge>
+    <edge source="32174" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.0176</data>
+    </edge>
+    <edge source="32174" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0219</data>
+    </edge>
+    <edge source="32174" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32174" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.0009</data>
+    </edge>
+    <edge source="32174" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0005</data>
+    </edge>
+    <edge source="32174" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32174" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0002</data>
+    </edge>
+    <edge source="32174" target="32170">
+      <data key="d2">predation</data>
+      <data key="d3">0.0263</data>
+    </edge>
+    <edge source="32174" target="32191">
+      <data key="d2">predation</data>
+      <data key="d3">0.0263</data>
+    </edge>
+    <edge source="32174" target="32192">
+      <data key="d2">predation</data>
+      <data key="d3">0.0263</data>
+    </edge>
+    <edge source="32210" target="32153">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32210" target="32154">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32210" target="32157">
+      <data key="d2">predation</data>
+      <data key="d3">0.0071</data>
+    </edge>
+    <edge source="32210" target="32158">
+      <data key="d2">predation</data>
+      <data key="d3">0.0029</data>
+    </edge>
+    <edge source="32210" target="32159">
+      <data key="d2">predation</data>
+      <data key="d3">0.015</data>
+    </edge>
+    <edge source="32210" target="32160">
+      <data key="d2">predation</data>
+      <data key="d3">0.0208</data>
+    </edge>
+    <edge source="32210" target="32161">
+      <data key="d2">predation</data>
+      <data key="d3">0.0018</data>
+    </edge>
+    <edge source="32210" target="32162">
+      <data key="d2">predation</data>
+      <data key="d3">0.5064</data>
+    </edge>
+    <edge source="32210" target="32163">
+      <data key="d2">predation</data>
+      <data key="d3">0.04</data>
+    </edge>
+    <edge source="32210" target="32164">
+      <data key="d2">predation</data>
+      <data key="d3">0.0497</data>
+    </edge>
+    <edge source="32210" target="32165">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32210" target="32166">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32210" target="32167">
+      <data key="d2">predation</data>
+      <data key="d3">0.0011</data>
+    </edge>
+    <edge source="32210" target="32168">
+      <data key="d2">predation</data>
+      <data key="d3">0.0045</data>
+    </edge>
+    <edge source="32210" target="32169">
+      <data key="d2">predation</data>
+      <data key="d3">0.0004</data>
+    </edge>
+    <edge source="32210" target="32176">
+      <data key="d2">predation</data>
+      <data key="d3">0.001</data>
+    </edge>
+    <edge source="32210" target="32180">
+      <data key="d2">predation</data>
+      <data key="d3">0.002</data>
+    </edge>
+    <edge source="32210" target="32185">
+      <data key="d2">predation</data>
+      <data key="d3">0.1</data>
+    </edge>
+    <edge source="32210" target="32187">
+      <data key="d2">predation</data>
+      <data key="d3">0.02</data>
+    </edge>
+    <edge source="32210" target="32188">
+      <data key="d2">predation</data>
+      <data key="d3">0.03</data>
+    </edge>
+    <edge source="32210" target="32189">
+      <data key="d2">predation</data>
+      <data key="d3">0.05</data>
+    </edge>
+    <edge source="32210" target="32196">
+      <data key="d2">predation</data>
+      <data key="d3">0.005</data>
+    </edge>
+    <edge source="32210" target="32223">
+      <data key="d2">predation</data>
+      <data key="d3">0.01</data>
+    </edge>
+    <edge source="32210" target="32224">
+      <data key="d2">unspecified</data>
+      <data key="d3">0.1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,6 @@
+network_id,model,seed,roc_auc,average_precision,precision,recall,f1
+2472,ClimateAwareGNN,42,0.8758,0.8567,0.821,0.7344,0.7753
+2472,ClimateAwareGNN,43,0.9011,0.8886,0.7927,0.8516,0.8211
+2472,ClimateAwareGNN,44,0.8865,0.8574,0.8051,0.8555,0.8295
+2472,ClimateAwareGNN,45,0.9044,0.8602,0.8114,0.8906,0.8492
+2472,ClimateAwareGNN,46,0.9136,0.8914,0.8667,0.8125,0.8387

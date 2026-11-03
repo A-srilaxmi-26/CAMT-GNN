@@ -1,0 +1,4 @@
+,roc_auc,roc_auc,average_precision,average_precision,precision,precision,recall,recall,f1,f1
+,mean,std,mean,std,mean,std,mean,std,mean,std
+condition,,,,,,,,,,
+GCN_GraphClimateFusion,0.901885986328125,0.021350364072695832,0.8708235057735741,0.0330074571047753,0.8259427151714196,0.009151600455045513,0.8359375,0.06249999999999999,0.8301176773186946,0.035471225606438186
